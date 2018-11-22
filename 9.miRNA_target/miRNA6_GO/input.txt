@@ -1,0 +1,9 @@
+Term	Count	PValue
+GO:0035994~response to muscle stretch	3	0.001015275
+GO:0000982~transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding	3	0.002090464
+GO:0005667~transcription factor complex	5	0.002219801
+GO:0003682~chromatin binding	6	0.005854351
+GO:0008542~visual learning	3	0.007927625
+GO:0051591~response to cAMP	3	0.008272309
+GO:0003677~DNA binding	12	0.008706364
+GO:0008134~transcription factor binding	5	0.009845487

@@ -1,0 +1,262 @@
+1	NM_003467	All miRNA predictions	8.5	hsa-miR-139	Genome browser	Homo sapiens chemokine (C-X-C motif) receptor 4 (CXCR4), mRNA.
+2	NM_006357	All miRNA predictions	7.81	hsa-miR-139	Genome browser	Homo sapiens ubiquitin-conjugating enzyme E2E 3 (UBC4/5 homolog, yeast) (UBE2E3), transcript variant 1, mRNA.
+3	NM_182678	All miRNA predictions	7.81	hsa-miR-139	Genome browser	Homo sapiens ubiquitin-conjugating enzyme E2E 3 (UBC4/5 homolog, yeast) (UBE2E3), transcript variant 2, mRNA.
+4	NM_020988	All miRNA predictions	6.7	hsa-miR-139	Genome browser	Homo sapiens guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O (GNAO1), transcript variant 1, mRNA.
+5	NM_001999	All miRNA predictions	6.58	hsa-miR-139	Genome browser	Homo sapiens fibrillin 2 (congenital contractural arachnodactyly) (FBN2), mRNA.
+6	NM_005458	All miRNA predictions	6.23	hsa-miR-139	Genome browser	Homo sapiens G protein-coupled receptor 51 (GPR51), mRNA.
+7	NM_175839	All miRNA predictions	6.18	hsa-miR-139	Genome browser	Homo sapiens spermine oxidase (SMOX), transcript variant 1, mRNA.
+8	NM_175841	All miRNA predictions	6.18	hsa-miR-139	Genome browser	Homo sapiens spermine oxidase (SMOX), transcript variant 3, mRNA.
+9	NM_175842	All miRNA predictions	6.18	hsa-miR-139	Genome browser	Homo sapiens spermine oxidase (SMOX), transcript variant 4, mRNA.
+10	NM_019025	All miRNA predictions	6.18	hsa-miR-139	Genome browser	Homo sapiens spermine oxidase (SMOX), transcript variant 5, mRNA.
+11	NM_175840	All miRNA predictions	6.18	hsa-miR-139	Genome browser	Homo sapiens spermine oxidase (SMOX), transcript variant 2, mRNA.
+12	NM_006826	All miRNA predictions	6.09	hsa-miR-139	Genome browser	Homo sapiens tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, theta polypeptide (YWHAQ), mRNA.
+13	NM_001642	All miRNA predictions	6.06	hsa-miR-139	Genome browser	Homo sapiens amyloid beta (A4) precursor-like protein 2 (APLP2), mRNA.
+14	NM_006202	All miRNA predictions	6.04	hsa-miR-139	Genome browser	Homo sapiens phosphodiesterase 4A, cAMP-specific (phosphodiesterase E2 dunce homolog, Drosophila) (PDE4A), mRNA.
+15	NM_007212	All miRNA predictions	5.87	hsa-miR-139	Genome browser	Homo sapiens ring finger protein 2 (RNF2), mRNA.
+16	NM_170674	All miRNA predictions	5.72	hsa-miR-139	Genome browser	Homo sapiens Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse) (MEIS2), transcript variant b, mRNA.
+17	NM_172315	All miRNA predictions	5.72	hsa-miR-139	Genome browser	Homo sapiens Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse) (MEIS2), transcript variant g, mRNA.
+18	NM_002399	All miRNA predictions	5.72	hsa-miR-139	Genome browser	Homo sapiens Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse) (MEIS2), transcript variant f, mRNA.
+19	NM_170677	All miRNA predictions	5.72	hsa-miR-139	Genome browser	Homo sapiens Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse) (MEIS2), transcript variant a, mRNA.
+20	NM_172316	All miRNA predictions	5.72	hsa-miR-139	Genome browser	Homo sapiens Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse) (MEIS2), transcript variant h, mRNA.
+21	NM_001001331	All miRNA predictions	5.67	hsa-miR-139	Genome browser	Homo sapiens ATPase, Ca++ transporting, plasma membrane 2 (ATP2B2), transcript variant 1, mRNA.
+22	NM_001683	All miRNA predictions	5.67	hsa-miR-139	Genome browser	Homo sapiens ATPase, Ca++ transporting, plasma membrane 2 (ATP2B2), transcript variant 2, mRNA.
+23	NM_006200	All miRNA predictions	5.47	hsa-miR-139	Genome browser	Homo sapiens proprotein convertase subtilisin/kexin type 5 (PCSK5), mRNA.
+24	NM_005256	All miRNA predictions	5.45	hsa-miR-139	Genome browser	Homo sapiens growth arrest-specific 2 (GAS2), transcript variant 1, mRNA.
+25	NM_177553	All miRNA predictions	5.45	hsa-miR-139	Genome browser	Homo sapiens growth arrest-specific 2 (GAS2), transcript variant 2, mRNA.
+26	NM_002074	All miRNA predictions	5.41	hsa-miR-139	Genome browser	Homo sapiens guanine nucleotide binding protein (G protein), beta polypeptide 1 (GNB1), mRNA.
+27	NM_001358	All miRNA predictions	5.39	hsa-miR-139	Genome browser	Homo sapiens DEAH (Asp-Glu-Ala-His) box polypeptide 15 (DHX15), mRNA.
+28	NM_020149	All miRNA predictions	5.38	hsa-miR-139	Genome browser	Homo sapiens Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse) (MEIS2), transcript variant e, mRNA.
+29	NM_005079	All miRNA predictions	5.35	hsa-miR-139	Genome browser	Homo sapiens tumor protein D52 (TPD52), mRNA.
+30	NM_005723	All miRNA predictions	4.96	hsa-miR-139	Genome browser	Homo sapiens transmembrane 4 superfamily member 9 (TM4SF9), mRNA.
+31	NM_013450	All miRNA predictions	4.89	hsa-miR-139	Genome browser	Homo sapiens bromodomain adjacent to zinc finger domain, 2B (BAZ2B), mRNA.
+32	NM_001148	All miRNA predictions	4.86	hsa-miR-139	Genome browser	Homo sapiens ankyrin 2, neuronal (ANK2), transcript variant 1, mRNA.
+33	NM_020977	All miRNA predictions	4.86	hsa-miR-139	Genome browser	Homo sapiens ankyrin 2, neuronal (ANK2), transcript variant 2, mRNA.
+34	NM_014795	All miRNA predictions	4.76	hsa-miR-139	Genome browser	Homo sapiens zinc finger homeobox 1b (ZFHX1B), mRNA.
+35	NM_002228	All miRNA predictions	4.54	hsa-miR-139	Genome browser	Homo sapiens v-jun sarcoma virus 17 oncogene homolog (avian) (JUN), mRNA.
+36	NM_017423	All miRNA predictions	4.48	hsa-miR-139	Genome browser	Homo sapiens UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7) (GALNT7), mRNA.
+37	NM_001823	All miRNA predictions	4.43	hsa-miR-139	Genome browser	Homo sapiens creatine kinase, brain (CKB), mRNA.
+38	NM_001438	All miRNA predictions	4.42	hsa-miR-139	Genome browser	Homo sapiens estrogen-related receptor gamma (ESRRG), transcript variant 1, mRNA.
+39	NM_206594	All miRNA predictions	4.42	hsa-miR-139	Genome browser	Homo sapiens estrogen-related receptor gamma (ESRRG), transcript variant 2, mRNA.
+40	NM_206595	All miRNA predictions	4.42	hsa-miR-139	Genome browser	Homo sapiens estrogen-related receptor gamma (ESRRG), transcript variant 3, mRNA.
+41	NM_013960	All miRNA predictions	4.41	hsa-miR-139	Genome browser	Homo sapiens neuregulin 1 (NRG1), transcript variant ndf43, mRNA.
+42	NM_203350	All miRNA predictions	4.36	hsa-miR-139	Genome browser	Homo sapiens zinc finger protein 265 (ZNF265), transcript variant 1, mRNA.
+43	NM_005455	All miRNA predictions	4.27	hsa-miR-139	Genome browser	Homo sapiens zinc finger protein 265 (ZNF265), transcript variant 2, mRNA.
+44	NM_032440	All miRNA predictions	4.26	hsa-miR-139	Genome browser	Homo sapiens ligand-dependent corepressor (MLR2), mRNA.
+45	NM_002300	All miRNA predictions	4.24	hsa-miR-139	Genome browser	Homo sapiens lactate dehydrogenase B (LDHB), mRNA.
+46	NM_020310	All miRNA predictions	4.19	hsa-miR-139	Genome browser	Homo sapiens MAX binding protein (MNT), mRNA.
+47	NM_024536	All miRNA predictions	4.16	hsa-miR-139	Genome browser	Homo sapiens chondroitin polymerizing factor (CHPF), mRNA.
+48	NM_032574	All miRNA predictions	4.14	hsa-miR-139	Genome browser	Homo sapiens dpy-30-like protein (LOC84661), mRNA.
+49	NM_012073	All miRNA predictions	4.09	hsa-miR-139	Genome browser	Homo sapiens chaperonin containing TCP1, subunit 5 (epsilon) (CCT5), mRNA.
+50	NM_005252	All miRNA predictions	4.07	hsa-miR-139	Genome browser	Homo sapiens v-fos FBJ murine osteosarcoma viral oncogene homolog (FOS), mRNA.
+51	NM_007064	All miRNA predictions	4.02	hsa-miR-139	Genome browser	Homo sapiens serine/threonine kinase with Dbl- and pleckstrin homology domains (TRAD), mRNA.
+52	NM_004662	All miRNA predictions	4.01	hsa-miR-139	Genome browser	Homo sapiens dynein, axonemal, heavy polypeptide 9 (DNAH9), transcript variant 1, mRNA.
+53	NM_014962	All miRNA predictions	4.01	hsa-miR-139	Genome browser	Homo sapiens BTB (POZ) domain containing 3 (BTBD3), transcript variant 1, mRNA.
+54	NM_181443	All miRNA predictions	4.01	hsa-miR-139	Genome browser	Homo sapiens BTB (POZ) domain containing 3 (BTBD3), transcript variant 2, mRNA.
+55	NM_001372	All miRNA predictions	4.01	hsa-miR-139	Genome browser	Homo sapiens dynein, axonemal, heavy polypeptide 9 (DNAH9), transcript variant 2, mRNA.
+56	NM_030571	All miRNA predictions	3.99	hsa-miR-139	Genome browser	Homo sapiens Nedd4 family interacting protein 1 (NDFIP1), mRNA.
+57	NM_197972	All miRNA predictions	3.96	hsa-miR-139	Genome browser	Homo sapiens non-metastatic cells 7, protein expressed in (nucleoside-diphosphate kinase) (NME7), transcript variant 2, mRNA.
+58	NM_013330	All miRNA predictions	3.96	hsa-miR-139	Genome browser	Homo sapiens non-metastatic cells 7, protein expressed in (nucleoside-diphosphate kinase) (NME7), transcript variant 1, mRNA.
+59	NM_012479	All miRNA predictions	3.92	hsa-miR-139	Genome browser	Homo sapiens tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide (YWHAG), mRNA.
+60	NM_031289	All miRNA predictions	3.9	hsa-miR-139	Genome browser	Homo sapiens germ cell associated 1 (GSG1), mRNA.
+61	NM_139046	All miRNA predictions	3.9	hsa-miR-139	Genome browser	Homo sapiens mitogen-activated protein kinase 8 (MAPK8), transcript variant 3, mRNA.
+62	NM_002750	All miRNA predictions	3.9	hsa-miR-139	Genome browser	Homo sapiens mitogen-activated protein kinase 8 (MAPK8), transcript variant 2, mRNA.
+63	NM_005180	All miRNA predictions	3.9	hsa-miR-139	Genome browser	Homo sapiens B lymphoma Mo-MLV insertion region (mouse) (BMI1), mRNA.
+64	NM_012214	All miRNA predictions	3.85	hsa-miR-139	Genome browser	Homo sapiens mannosyl (alpha-1,3-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase, isoenzyme A (MGAT4A), mRNA.
+65	NM_003877	All miRNA predictions	3.85	hsa-miR-139	Genome browser	Homo sapiens suppressor of cytokine signaling 2 (SOCS2), mRNA.
+66	NM_206909	All miRNA predictions	3.82	hsa-miR-139	Genome browser	Homo sapiens pleckstrin and Sec7 domain containing 3 (PSD3), transcript variant 2, mRNA.
+67	NM_153695	All miRNA predictions	3.75	hsa-miR-139	Genome browser	Homo sapiens zinc finger protein 367 (ZNF367), mRNA.
+68	NM_178502	All miRNA predictions	3.73	hsa-miR-139	Genome browser	Homo sapiens deltex 3 homolog (Drosophila) (DTX3), mRNA.
+69	NM_018212	All miRNA predictions	3.71	hsa-miR-139	Genome browser	Homo sapiens enabled homolog (Drosophila) (ENAH), mRNA.
+70	NM_018064	All miRNA predictions	3.66	hsa-miR-139	Genome browser	Homo sapiens chromosome 6 open reading frame 166 (C6orf166), mRNA.
+71	NM_033224	All miRNA predictions	3.66	hsa-miR-139	Genome browser	Homo sapiens purine-rich element binding protein B (PURB), mRNA.
+72	NM_080678	All miRNA predictions	3.65	hsa-miR-139	Genome browser	Homo sapiens NEDD8-conjugating enzyme (NCE2), mRNA.
+73	NM_003029	All miRNA predictions	3.61	hsa-miR-139	Genome browser	Homo sapiens SHC (Src homology 2 domain containing) transforming protein 1 (SHC1), transcript variant 2, mRNA.
+74	NM_024667	All miRNA predictions	3.59	hsa-miR-139	Genome browser	Homo sapiens hypothetical protein FLJ12750 (FLJ12750), mRNA.
+75	NM_000921	All miRNA predictions	3.55	hsa-miR-139	Genome browser	Homo sapiens phosphodiesterase 3A, cGMP-inhibited (PDE3A), mRNA.
+76	NM_005888	All miRNA predictions	3.54	hsa-miR-139	Genome browser	Homo sapiens solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 (SLC25A3), nuclear gene encoding mitochondrial protein, transcript variant 1, mRNA.
+77	NM_002635	All miRNA predictions	3.54	hsa-miR-139	Genome browser	Homo sapiens solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 (SLC25A3), nuclear gene encoding mitochondrial protein, transcript variant 2, mRNA.
+78	NM_213611	All miRNA predictions	3.54	hsa-miR-139	Genome browser	Homo sapiens solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 (SLC25A3), nuclear gene encoding mitochondrial protein, transcript variant 3, mRNA.
+79	NM_178832	All miRNA predictions	3.54	hsa-miR-139	Genome browser	Homo sapiens chromosome 10 open reading frame 83 (C10orf83), mRNA.
+80	NM_006766	All miRNA predictions	3.5	hsa-miR-139	Genome browser	Homo sapiens MYST histone acetyltransferase (monocytic leukemia) 3 (MYST3), mRNA.
+81	NM_022822	All miRNA predictions	3.49	hsa-miR-139	Genome browser	Homo sapiens likely ortholog of kinesin light chain 2 (KLC2), mRNA.
+82	NM_152989	All miRNA predictions	3.48	hsa-miR-139	Genome browser	Homo sapiens SRY (sex determining region Y)-box 5 (SOX5), transcript variant 2, mRNA.
+83	NM_178010	All miRNA predictions	3.48	hsa-miR-139	Genome browser	Homo sapiens SRY (sex determining region Y)-box 5 (SOX5), transcript variant 3, mRNA.
+84	NM_020480	All miRNA predictions	3.48	hsa-miR-139	Genome browser	Homo sapiens ankyrin 1, erythrocytic (ANK1), transcript variant 7, mRNA.
+85	NM_006940	All miRNA predictions	3.48	hsa-miR-139	Genome browser	Homo sapiens SRY (sex determining region Y)-box 5 (SOX5), transcript variant 1, mRNA.
+86	NM_006806	All miRNA predictions	3.45	hsa-miR-139	Genome browser	Homo sapiens BTG family, member 3 (BTG3), mRNA.
+87	NM_003072	All miRNA predictions	3.45	hsa-miR-139	Genome browser	Homo sapiens SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 (SMARCA4), mRNA.
+88	NM_015141	All miRNA predictions	3.45	hsa-miR-139	Genome browser	Homo sapiens glycerol-3-phosphate dehydrogenase 1-like (GPD1L), mRNA.
+89	NM_020478	All miRNA predictions	3.44	hsa-miR-139	Genome browser	Homo sapiens ankyrin 1, erythrocytic (ANK1), transcript variant 5, mRNA.
+90	NM_182926	All miRNA predictions	3.44	hsa-miR-139	Genome browser	Homo sapiens kinectin 1 (kinesin receptor) (KTN1), mRNA.
+91	NM_020479	All miRNA predictions	3.44	hsa-miR-139	Genome browser	Homo sapiens ankyrin 1, erythrocytic (ANK1), transcript variant 6, mRNA.
+92	NM_020481	All miRNA predictions	3.44	hsa-miR-139	Genome browser	Homo sapiens ankyrin 1, erythrocytic (ANK1), transcript variant 8, mRNA.
+93	NM_198467	All miRNA predictions	3.42	hsa-miR-139	Genome browser	Homo sapiens round spermatid basic protein 1-like (RSBN1L), mRNA.
+94	NM_002840	All miRNA predictions	3.42	hsa-miR-139	Genome browser	Homo sapiens protein tyrosine phosphatase, receptor type, F (PTPRF), transcript variant 1, mRNA.
+95	NM_130440	All miRNA predictions	3.42	hsa-miR-139	Genome browser	Homo sapiens protein tyrosine phosphatase, receptor type, F (PTPRF), transcript variant 2, mRNA.
+96	NM_173208	All miRNA predictions	3.41	hsa-miR-139	Genome browser	Homo sapiens TGFB-induced factor (TALE family homeobox) (TGIF), transcript variant 3, mRNA.
+97	NM_173207	All miRNA predictions	3.41	hsa-miR-139	Genome browser	Homo sapiens TGFB-induced factor (TALE family homeobox) (TGIF), transcript variant 2, mRNA.
+98	NM_173209	All miRNA predictions	3.41	hsa-miR-139	Genome browser	Homo sapiens TGFB-induced factor (TALE family homeobox) (TGIF), transcript variant 5, mRNA.
+99	NM_173211	All miRNA predictions	3.41	hsa-miR-139	Genome browser	Homo sapiens TGFB-induced factor (TALE family homeobox) (TGIF), transcript variant 7, mRNA.
+100	NM_173210	All miRNA predictions	3.41	hsa-miR-139	Genome browser	Homo sapiens TGFB-induced factor (TALE family homeobox) (TGIF), transcript variant 6, mRNA.
+101	NM_003244	All miRNA predictions	3.41	hsa-miR-139	Genome browser	Homo sapiens TGFB-induced factor (TALE family homeobox) (TGIF), transcript variant 4, mRNA.
+102	NM_174886	All miRNA predictions	3.41	hsa-miR-139	Genome browser	Homo sapiens TGFB-induced factor (TALE family homeobox) (TGIF), transcript variant 8, mRNA.
+103	NM_170695	All miRNA predictions	3.41	hsa-miR-139	Genome browser	Homo sapiens TGFB-induced factor (TALE family homeobox) (TGIF), transcript variant 1, mRNA.
+104	NM_016396	All miRNA predictions	3.36	hsa-miR-139	Genome browser	Homo sapiens hypothetical protein HSPC129 (HSPC129), mRNA.
+105	NM_044472	All miRNA predictions	3.32	hsa-miR-139	Genome browser	Homo sapiens cell division cycle 42 (GTP binding protein, 25kDa) (CDC42), transcript variant 2, mRNA.
+106	NM_018334	All miRNA predictions	3.32	hsa-miR-139	Genome browser	Homo sapiens leucine rich repeat neuronal 3 (LRRN3), mRNA.
+107	NM_012412	All miRNA predictions	3.26	hsa-miR-139	Genome browser	Homo sapiens H2A histone family, member V (H2AFV), transcript variant 1, mRNA.
+108	NM_020926	All miRNA predictions	3.26	hsa-miR-139	Genome browser	Homo sapiens BCL6 co-repressor (BCOR), transcript variant 2, mRNA.
+109	NM_201436	All miRNA predictions	3.26	hsa-miR-139	Genome browser	Homo sapiens H2A histone family, member V (H2AFV), transcript variant 3, mRNA.
+110	NM_201517	All miRNA predictions	3.26	hsa-miR-139	Genome browser	Homo sapiens H2A histone family, member V (H2AFV), transcript variant 5, mRNA.
+111	NM_025219	All miRNA predictions	3.21	hsa-miR-139	Genome browser	Homo sapiens DnaJ (Hsp40) homolog, subfamily C, member 5 (DNAJC5), mRNA.
+112	NM_080629	All miRNA predictions	3.19	hsa-miR-139	Genome browser	Homo sapiens collagen, type XI, alpha 1 (COL11A1), transcript variant B, mRNA.
+113	NM_080630	All miRNA predictions	3.19	hsa-miR-139	Genome browser	Homo sapiens collagen, type XI, alpha 1 (COL11A1), transcript variant C, mRNA.
+114	NM_001854	All miRNA predictions	3.19	hsa-miR-139	Genome browser	Homo sapiens collagen, type XI, alpha 1 (COL11A1), transcript variant A, mRNA.
+115	NM_014575	All miRNA predictions	3.16	hsa-miR-139	Genome browser	Homo sapiens schwannomin interacting protein 1 (SCHIP1), mRNA.
+116	NM_022459	All miRNA predictions	3.12	hsa-miR-139	Genome browser	Homo sapiens exportin 4 (XPO4), mRNA.
+117	NM_201516	All miRNA predictions	3.12	hsa-miR-139	Genome browser	Homo sapiens H2A histone family, member V (H2AFV), transcript variant 4, mRNA.
+118	NM_153322	All miRNA predictions	3.11	hsa-miR-139	Genome browser	Homo sapiens peripheral myelin protein 22 (PMP22), transcript variant 3, mRNA.
+119	NM_000304	All miRNA predictions	3.11	hsa-miR-139	Genome browser	Homo sapiens peripheral myelin protein 22 (PMP22), transcript variant 1, mRNA.
+120	NM_153321	All miRNA predictions	3.11	hsa-miR-139	Genome browser	Homo sapiens peripheral myelin protein 22 (PMP22), transcript variant 2, mRNA.
+121	NM_138713	All miRNA predictions	3.1	hsa-miR-139	Genome browser	Homo sapiens nuclear factor of activated T-cells 5, tonicity-responsive (NFAT5), transcript variant 2, mRNA.
+122	NM_006599	All miRNA predictions	3.1	hsa-miR-139	Genome browser	Homo sapiens nuclear factor of activated T-cells 5, tonicity-responsive (NFAT5), transcript variant 3, mRNA.
+123	NM_138714	All miRNA predictions	3.1	hsa-miR-139	Genome browser	Homo sapiens nuclear factor of activated T-cells 5, tonicity-responsive (NFAT5), transcript variant 1, mRNA.
+124	NM_173214	All miRNA predictions	3.1	hsa-miR-139	Genome browser	Homo sapiens nuclear factor of activated T-cells 5, tonicity-responsive (NFAT5), transcript variant 4, mRNA.
+125	NM_004600	All miRNA predictions	3.09	hsa-miR-139	Genome browser	Homo sapiens Sjogren syndrome antigen A2 (60kDa, ribonucleoprotein autoantigen SS-A/Ro) (SSA2), mRNA.
+126	NM_022910	All miRNA predictions	3.08	hsa-miR-139	Genome browser	Homo sapiens NDRG family member 4 (NDRG4), mRNA.
+127	NM_020465	All miRNA predictions	3.08	hsa-miR-139	Genome browser	Homo sapiens NDRG family member 4 (NDRG4), mRNA.
+128	NM_006791	All miRNA predictions	3.04	hsa-miR-139	Genome browser	Homo sapiens mortality factor 4 like 1 (MORF4L1), transcript variant 1, mRNA.
+129	NM_206839	All miRNA predictions	3.04	hsa-miR-139	Genome browser	Homo sapiens mortality factor 4 like 1 (MORF4L1), transcript variant 2, mRNA.
+130	NM_152745	All miRNA predictions	3.01	hsa-miR-139	Genome browser	Homo sapiens neurexophilin 1 (NXPH1), mRNA.
+131	NM_001663	All miRNA predictions	2.95	hsa-miR-139	Genome browser	Homo sapiens ADP-ribosylation factor 6 (ARF6), mRNA.
+132	NM_014393	All miRNA predictions	2.93	hsa-miR-139	Genome browser	Homo sapiens staufen, RNA binding protein, homolog 2 (Drosophila) (STAU2), mRNA.
+133	NM_003590	All miRNA predictions	2.91	hsa-miR-139	Genome browser	Homo sapiens cullin 3 (CUL3), mRNA.
+134	NM_178026	All miRNA predictions	2.89	hsa-miR-139	Genome browser	Homo sapiens gamma-glutamyltransferase-like 3 (GGTL3), transcript variant 3, mRNA.
+135	NM_014961	All miRNA predictions	2.88	hsa-miR-139	Genome browser	Homo sapiens rap2 interacting protein x (RIPX), mRNA.
+136	NM_148174	All miRNA predictions	2.87	hsa-miR-139	Genome browser	Homo sapiens ornithine decarboxylase antizyme inhibitor (OAZIN), transcript variant 2, mRNA.
+137	NM_015878	All miRNA predictions	2.87	hsa-miR-139	Genome browser	Homo sapiens ornithine decarboxylase antizyme inhibitor (OAZIN), transcript variant 1, mRNA.
+138	NM_006922	All miRNA predictions	2.85	hsa-miR-139	Genome browser	Homo sapiens sodium channel, voltage-gated, type III, alpha (SCN3A), mRNA.
+139	NM_004962	All miRNA predictions	2.84	hsa-miR-139	Genome browser	Homo sapiens growth differentiation factor 10 (GDF10), mRNA.
+140	NM_031847	All miRNA predictions	2.81	hsa-miR-139	Genome browser	Homo sapiens microtubule-associated protein 2 (MAP2), transcript variant 4, mRNA.
+141	NM_031846	All miRNA predictions	2.81	hsa-miR-139	Genome browser	Homo sapiens microtubule-associated protein 2 (MAP2), transcript variant 3, mRNA.
+142	NM_002374	All miRNA predictions	2.81	hsa-miR-139	Genome browser	Homo sapiens microtubule-associated protein 2 (MAP2), transcript variant 1, mRNA.
+143	NM_031845	All miRNA predictions	2.81	hsa-miR-139	Genome browser	Homo sapiens microtubule-associated protein 2 (MAP2), transcript variant 2, mRNA.
+144	NM_015885	All miRNA predictions	2.79	hsa-miR-139	Genome browser	Homo sapiens pre-mRNA cleavage complex II protein Pcf11 (PCF11), mRNA.
+145	NM_153207	All miRNA predictions	2.79	hsa-miR-139	Genome browser	Homo sapiens AE binding protein 2 (AEBP2), mRNA.
+146	NM_004021	All miRNA predictions	2.75	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp140b, mRNA.
+147	NM_004022	All miRNA predictions	2.75	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant D140ab, mRNA.
+148	NM_004018	All miRNA predictions	2.75	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp71ab, mRNA.
+149	NM_004016	All miRNA predictions	2.75	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp71b, mRNA.
+150	NM_004023	All miRNA predictions	2.75	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp140bc, mRNA.
+151	NM_005911	All miRNA predictions	2.75	hsa-miR-139	Genome browser	Homo sapiens methionine adenosyltransferase II, alpha (MAT2A), mRNA.
+152	NM_032458	All miRNA predictions	2.75	hsa-miR-139	Genome browser	Homo sapiens PHD finger protein 6 (PHF6), mRNA.
+153	NM_015076	All miRNA predictions	2.7	hsa-miR-139	Genome browser	Homo sapiens cyclin-dependent kinase (CDC2-like) 11 (CDK11), mRNA.
+154	NM_018126	All miRNA predictions	2.7	hsa-miR-139	Genome browser	Homo sapiens transmembrane protein 33 (TMEM33), mRNA.
+155	NM_138444	All miRNA predictions	2.7	hsa-miR-139	Genome browser	Homo sapiens potassium channel tetramerisation domain containing 12 (KCTD12), mRNA.
+156	NM_019058	All miRNA predictions	2.69	hsa-miR-139	Genome browser	Homo sapiens DNA-damage-inducible transcript 4 (DDIT4), mRNA.
+157	NM_153350	All miRNA predictions	2.69	hsa-miR-139	Genome browser	Homo sapiens F-box and leucine-rich repeat protein 16 (FBXL16), mRNA.
+158	NM_004966	All miRNA predictions	2.69	hsa-miR-139	Genome browser	Homo sapiens heterogeneous nuclear ribonucleoprotein F (HNRPF), mRNA.
+159	NM_004015	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp71, mRNA.
+160	NM_004010	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp427p2, mRNA.
+161	NM_004013	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp140, mRNA.
+162	NM_004009	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp427p1, mRNA.
+163	NM_004006	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp427m, mRNA.
+164	NM_000109	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp427c, mRNA.
+165	NM_004020	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp140c, mRNA.
+166	NM_004017	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp71a, mRNA.
+167	NM_004014	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp116, mRNA.
+168	NM_004011	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp260-1, mRNA.
+169	NM_004012	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp260-2, mRNA.
+170	NM_004007	All miRNA predictions	2.67	hsa-miR-139	Genome browser	Homo sapiens dystrophin (muscular dystrophy, Duchenne and Becker types) (DMD), transcript variant Dp427l, mRNA.
+171	NM_178586	All miRNA predictions	2.66	hsa-miR-139	Genome browser	Homo sapiens protein phosphatase 2, regulatory subunit B (B56), gamma isoform (PPP2R5C), transcript variant 2, mRNA.
+172	NM_002719	All miRNA predictions	2.66	hsa-miR-139	Genome browser	Homo sapiens protein phosphatase 2, regulatory subunit B (B56), gamma isoform (PPP2R5C), transcript variant 1, mRNA.
+173	NM_003576	All miRNA predictions	2.65	hsa-miR-139	Genome browser	Homo sapiens serine/threonine kinase 24 (STE20 homolog, yeast) (STK24), mRNA.
+174	NM_198902	All miRNA predictions	2.65	hsa-miR-139	Genome browser	Homo sapiens transmembrane 4 superfamily member 8 (TM4SF8), transcript variant 2, mRNA.
+175	NM_005724	All miRNA predictions	2.65	hsa-miR-139	Genome browser	Homo sapiens transmembrane 4 superfamily member 8 (TM4SF8), transcript variant 1, mRNA.
+176	NM_023929	All miRNA predictions	2.61	hsa-miR-139	Genome browser	Homo sapiens zinc finger and BTB domain containing 10 (ZBTB10), mRNA.
+177	NM_152739	All miRNA predictions	2.61	hsa-miR-139	Genome browser	Homo sapiens homeo box A9 (HOXA9), transcript variant 1, mRNA.
+178	NM_002715	All miRNA predictions	2.56	hsa-miR-139	Genome browser	Homo sapiens protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform (PPP2CA), mRNA.
+179	NM_017780	All miRNA predictions	2.52	hsa-miR-139	Genome browser	Homo sapiens chromodomain helicase DNA binding protein 7 (CHD7), mRNA.
+180	NM_054016	All miRNA predictions	2.51	hsa-miR-139	Genome browser	Homo sapiens FUS interacting protein (serine-arginine rich) 1 (FUSIP1), transcript variant 2, mRNA.
+181	NM_145012	All miRNA predictions	2.5	hsa-miR-139	Genome browser	Homo sapiens chromosome 10 open reading frame 9 (C10orf9), mRNA.
+182	NM_152858	All miRNA predictions	2.48	hsa-miR-139	Genome browser	Homo sapiens Wilms tumor 1 associated protein (WTAP), transcript variant 3, mRNA.
+183	NM_152857	All miRNA predictions	2.48	hsa-miR-139	Genome browser	Homo sapiens Wilms tumor 1 associated protein (WTAP), transcript variant 2, mRNA.
+184	NM_022826	All miRNA predictions	2.47	hsa-miR-139	Genome browser	Homo sapiens axotrophin (AXOT), mRNA.
+185	NM_001417	All miRNA predictions	2.46	hsa-miR-139	Genome browser	Homo sapiens eukaryotic translation initiation factor 4B (EIF4B), mRNA.
+186	NM_145799	All miRNA predictions	2.42	hsa-miR-139	Genome browser	Homo sapiens septin 6 (SEPT6), transcript variant I, mRNA.
+187	NM_014614	All miRNA predictions	2.41	hsa-miR-139	Genome browser	Homo sapiens proteasome (prosome, macropain) activator subunit 4 (PSME4), mRNA.
+188	NM_001904	All miRNA predictions	2.4	hsa-miR-139	Genome browser	Homo sapiens catenin (cadherin-associated protein), beta 1, 88kDa (CTNNB1), mRNA.
+189	NM_170676	All miRNA predictions	2.4	hsa-miR-139	Genome browser	Homo sapiens Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse) (MEIS2), transcript variant d, mRNA.
+190	NM_170675	All miRNA predictions	2.4	hsa-miR-139	Genome browser	Homo sapiens Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse) (MEIS2), transcript variant c, mRNA.
+191	NM_080927	All miRNA predictions	2.37	hsa-miR-139	Genome browser	Homo sapiens discoidin, CUB and LCCL domain containing 2 (DCBLD2), mRNA.
+192	NM_014034	All miRNA predictions	2.35	hsa-miR-139	Genome browser	Homo sapiens ASF1 anti-silencing function 1 homolog A (S. cerevisiae) (ASF1A), mRNA.
+193	NM_032961	All miRNA predictions	2.35	hsa-miR-139	Genome browser	Homo sapiens protocadherin 10 (PCDH10), transcript variant 1, mRNA.
+194	NM_003286	All miRNA predictions	2.35	hsa-miR-139	Genome browser	Homo sapiens topoisomerase (DNA) I (TOP1), mRNA.
+195	NM_152835	All miRNA predictions	2.34	hsa-miR-139	Genome browser	Homo sapiens casein kinase (LOC149420), mRNA.
+196	NM_014021	All miRNA predictions	2.34	hsa-miR-139	Genome browser	Homo sapiens synovial sarcoma, X breakpoint 2 interacting protein (SSX2IP), mRNA.
+197	NM_015646	All miRNA predictions	2.33	hsa-miR-139	Genome browser	Homo sapiens RAP1B, member of RAS oncogene family (RAP1B), mRNA.
+198	NM_015483	All miRNA predictions	2.32	hsa-miR-139	Genome browser	Homo sapiens kelch repeat and BTB (POZ) domain containing 2 (KBTBD2), mRNA.
+199	NM_012304	All miRNA predictions	2.32	hsa-miR-139	Genome browser	Homo sapiens F-box and leucine-rich repeat protein 7 (FBXL7), mRNA.
+200	NM_003137	All miRNA predictions	2.31	hsa-miR-139	Genome browser	Homo sapiens SFRS protein kinase 1 (SRPK1), mRNA.
+201	NM_004482	All miRNA predictions	2.28	hsa-miR-139	Genome browser	Homo sapiens UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 3 (GalNAc-T3) (GALNT3), mRNA.
+202	NM_002142	All miRNA predictions	2.28	hsa-miR-139	Genome browser	Homo sapiens homeo box A9 (HOXA9), transcript variant 2, mRNA.
+203	NM_001746	All miRNA predictions	2.27	hsa-miR-139	Genome browser	Homo sapiens calnexin (CANX), mRNA.
+204	NM_021132	All miRNA predictions	2.18	hsa-miR-139	Genome browser	Homo sapiens protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta) (PPP3CB), mRNA.
+205	NM_152622	All miRNA predictions	2.18	hsa-miR-139	Genome browser	Homo sapiens hypothetical protein FLJ35954 (FLJ35954), mRNA.
+206	NM_020791	All miRNA predictions	2.16	hsa-miR-139	Genome browser	Homo sapiens TAO kinase 1 (TAOK1), mRNA.
+207	NM_018243	All miRNA predictions	2.14	hsa-miR-139	Genome browser	Homo sapiens septin 11 (SEPT11), mRNA.
+208	NM_004926	All miRNA predictions	2.14	hsa-miR-139	Genome browser	Homo sapiens zinc finger protein 36, C3H type-like 1 (ZFP36L1), mRNA.
+209	NM_006030	All miRNA predictions	2.12	hsa-miR-139	Genome browser	Homo sapiens calcium channel, voltage-dependent, alpha 2/delta subunit 2 (CACNA2D2), transcript variant 2, mRNA.
+210	NM_025138	All miRNA predictions	2.12	hsa-miR-139	Genome browser	Homo sapiens chromosome 13 open reading frame 23 (C13orf23), transcript variant 1, mRNA.
+211	NM_170719	All miRNA predictions	2.12	hsa-miR-139	Genome browser	Homo sapiens chromosome 13 open reading frame 23 (C13orf23), transcript variant 2, mRNA.
+212	NM_001005505	All miRNA predictions	2.12	hsa-miR-139	Genome browser	Homo sapiens calcium channel, voltage-dependent, alpha 2/delta subunit 2 (CACNA2D2), transcript variant 1, mRNA.
+213	NM_032810	All miRNA predictions	2.09	hsa-miR-139	Genome browser	Homo sapiens ATPase family, AAA domain containing 1 (ATAD1), mRNA.
+214	NM_003348	All miRNA predictions	2.09	hsa-miR-139	Genome browser	Homo sapiens ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast) (UBE2N), mRNA.
+215	NM_013261	All miRNA predictions	2.06	hsa-miR-139	Genome browser	Homo sapiens peroxisome proliferative activated receptor, gamma, coactivator 1, alpha (PPARGC1A), mRNA.
+216	NM_017617	All miRNA predictions	2.04	hsa-miR-139	Genome browser	Homo sapiens Notch homolog 1, translocation-associated (Drosophila) (NOTCH1), mRNA.
+217	NM_182830	All miRNA predictions	2.01	hsa-miR-139	Genome browser	Homo sapiens MAM domain containing 1 (MAMDC1), mRNA.
+218	NM_032505	All miRNA predictions	2.01	hsa-miR-139	Genome browser	Homo sapiens T-cell activation kelch repeat protein (TA-KRP), mRNA.
+219	NM_020477	All miRNA predictions	1.99	hsa-miR-139	Genome browser	Homo sapiens ankyrin 1, erythrocytic (ANK1), transcript variant 2, mRNA.
+220	NM_020476	All miRNA predictions	1.99	hsa-miR-139	Genome browser	Homo sapiens ankyrin 1, erythrocytic (ANK1), transcript variant 1, mRNA.
+221	NM_020475	All miRNA predictions	1.99	hsa-miR-139	Genome browser	Homo sapiens ankyrin 1, erythrocytic (ANK1), transcript variant 4, mRNA.
+222	NM_000037	All miRNA predictions	1.98	hsa-miR-139	Genome browser	Homo sapiens ankyrin 1, erythrocytic (ANK1), transcript variant 3, mRNA.
+223	NM_005986	All miRNA predictions	1.97	hsa-miR-139	Genome browser	Homo sapiens SRY (sex determining region Y)-box 1 (SOX1), mRNA.
+224	NM_012095	All miRNA predictions	1.96	hsa-miR-139	Genome browser	Homo sapiens adaptor-related protein complex 3, mu 1 subunit (AP3M1), transcript variant 2, mRNA.
+225	NM_207012	All miRNA predictions	1.96	hsa-miR-139	Genome browser	Homo sapiens adaptor-related protein complex 3, mu 1 subunit (AP3M1), transcript variant 1, mRNA.
+226	NM_002024	All miRNA predictions	1.94	hsa-miR-139	Genome browser	Homo sapiens fragile X mental retardation 1 (FMR1), mRNA.
+227	NM_015338	All miRNA predictions	1.94	hsa-miR-139	Genome browser	Homo sapiens additional sex combs like 1 (Drosophila) (ASXL1), mRNA.
+228	NM_000859	All miRNA predictions	1.92	hsa-miR-139	Genome browser	Homo sapiens 3-hydroxy-3-methylglutaryl-Coenzyme A reductase (HMGCR), mRNA.
+229	NM_015578	All miRNA predictions	1.91	hsa-miR-139	Genome browser	Homo sapiens chromosome 19 open reading frame 13 (C19orf13), mRNA.
+230	NM_021943	All miRNA predictions	1.89	hsa-miR-139	Genome browser	Homo sapiens testis expressed sequence 27 (TEX27), mRNA.
+231	NM_006924	All miRNA predictions	1.85	hsa-miR-139	Genome browser	Homo sapiens splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor) (SFRS1), mRNA.
+232	NM_002268	All miRNA predictions	1.84	hsa-miR-139	Genome browser	Homo sapiens karyopherin alpha 4 (importin alpha 3) (KPNA4), mRNA.
+233	NM_015275	All miRNA predictions	1.83	hsa-miR-139	Genome browser	Homo sapiens KIAA1033 protein (KIAA1033), mRNA.
+234	NM_017599	All miRNA predictions	1.83	hsa-miR-139	Genome browser	Homo sapiens transmembrane protein vezatin (VEZATIN), mRNA.
+235	NM_172070	All miRNA predictions	1.81	hsa-miR-139	Genome browser	Homo sapiens similar to F10G7.10.p (KIAA2024), mRNA.
+236	NM_018027	All miRNA predictions	1.8	hsa-miR-139	Genome browser	Homo sapiens FERM domain containing 4A (FRMD4A), mRNA.
+237	NM_015570	All miRNA predictions	1.78	hsa-miR-139	Genome browser	Homo sapiens autism susceptibility candidate 2 (AUTS2), mRNA.
+238	NM_207038	All miRNA predictions	1.73	hsa-miR-139	Genome browser	Homo sapiens transcription factor 12 (HTF4, helix-loop-helix transcription factors 4) (TCF12), transcript variant 4, mRNA.
+239	NM_003205	All miRNA predictions	1.73	hsa-miR-139	Genome browser	Homo sapiens transcription factor 12 (HTF4, helix-loop-helix transcription factors 4) (TCF12), transcript variant 3, mRNA.
+240	NM_207037	All miRNA predictions	1.73	hsa-miR-139	Genome browser	Homo sapiens transcription factor 12 (HTF4, helix-loop-helix transcription factors 4) (TCF12), transcript variant 2, mRNA.
+241	NM_207036	All miRNA predictions	1.73	hsa-miR-139	Genome browser	Homo sapiens transcription factor 12 (HTF4, helix-loop-helix transcription factors 4) (TCF12), transcript variant 1, mRNA.
+242	NM_003178	All miRNA predictions	1.73	hsa-miR-139	Genome browser	Homo sapiens synapsin II (SYN2), transcript variant IIb, mRNA.
+243	NM_207040	All miRNA predictions	1.73	hsa-miR-139	Genome browser	Homo sapiens transcription factor 12 (HTF4, helix-loop-helix transcription factors 4) (TCF12), transcript variant 5, mRNA.
+244	NM_138270	All miRNA predictions	1.7	hsa-miR-139	Genome browser	Homo sapiens alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae) (ATRX), transcript variant 2, mRNA.
+245	NM_000489	All miRNA predictions	1.7	hsa-miR-139	Genome browser	Homo sapiens alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae) (ATRX), transcript variant 1, mRNA.
+246	NM_138271	All miRNA predictions	1.7	hsa-miR-139	Genome browser	Homo sapiens alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae) (ATRX), transcript variant 3, mRNA.
+247	NM_002522	All miRNA predictions	1.62	hsa-miR-139	Genome browser	Homo sapiens neuronal pentraxin I (NPTX1), mRNA.
+248	NM_013449	All miRNA predictions	1.61	hsa-miR-139	Genome browser	Homo sapiens bromodomain adjacent to zinc finger domain, 2A (BAZ2A), mRNA.
+249	NM_144664	All miRNA predictions	1.57	hsa-miR-139	Genome browser	Homo sapiens hypothetical protein MGC33371 (MGC33371), mRNA.
+250	NM_198465	All miRNA predictions	1.55	hsa-miR-139	Genome browser	Homo sapiens Nik related kinase (NRK), mRNA.
+251	NM_020801	All miRNA predictions	1.54	hsa-miR-139	Genome browser	Homo sapiens arrestin domain containing 3 (ARRDC3), mRNA.
+252	NM_000838	All miRNA predictions	1.49	hsa-miR-139	Genome browser	Homo sapiens glutamate receptor, metabotropic 1 (GRM1), mRNA.
+253	NM_213612	All miRNA predictions	1.47	hsa-miR-139	Genome browser	Homo sapiens solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 (SLC25A3), nuclear gene encoding mitochondrial protein, transcript variant 4, mRNA.
+254	NM_002015	All miRNA predictions	1.34	hsa-miR-139	Genome browser	Homo sapiens forkhead box O1A (rhabdomyosarcoma) (FOXO1A), mRNA.
+255	NM_016389	All miRNA predictions	1.33	hsa-miR-139	Genome browser	Homo sapiens influenza virus NS1A binding protein (IVNS1ABP), transcript variant 2, mRNA.
+256	NM_001003800	All miRNA predictions	1.27	hsa-miR-139	Genome browser	Homo sapiens bicaudal D homolog 2 (Drosophila) (BICD2), transcript variant 1, mRNA.
+257	NM_030627	All miRNA predictions	1.19	hsa-miR-139	Genome browser	Homo sapiens cytoplasmic polyadenylation element binding protein 4 (CPEB4), mRNA.
+258	NM_005238	All miRNA predictions	1.15	hsa-miR-139	Genome browser	Homo sapiens v-ets erythroblastosis virus E26 oncogene homolog 1 (avian) (ETS1), mRNA.
+259	NM_181358	All miRNA predictions	1.04	hsa-miR-139	Genome browser	Homo sapiens homeodomain interacting protein kinase 1 (HIPK1), transcript variant 4, mRNA.
+260	NM_198269	All miRNA predictions	1.04	hsa-miR-139	Genome browser	Homo sapiens homeodomain interacting protein kinase 1 (HIPK1), transcript variant 3, mRNA.
+261	NM_198268	All miRNA predictions	1.04	hsa-miR-139	Genome browser	Homo sapiens homeodomain interacting protein kinase 1 (HIPK1), transcript variant 1, mRNA.
+262	NM_000332	All miRNA predictions	0.85	hsa-miR-139	Genome browser	Homo sapiens ataxin 1 (ATXN1), mRNA.
