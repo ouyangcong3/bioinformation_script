@@ -1,0 +1,47 @@
+#download kobas (http://kobas.cbi.pku.edu.cn/help.do)
+kobas2.0-20150126.tar.gz
+organism.db.gz
+ko.db.gz
+ko.pep.fasta.gz
+
+#R (sudo apt-get install r-base r-base-dev)
+source("http://bioconductor.org/biocLite.R")
+biocLite("qvalue")
+
+#SQLite (http://www.sqlite.org/)
+sqlite-shell-linux-x86-3090200.zip
+unzip sqlite-shell-linux-x86-3090200.zip
+echo 'export PATH=$PATH:/home/qiime/software/kegg' >>~/.bashrc
+bash
+
+#python (sudo apt-get install python-pip)
+sudo pip install RPy2
+sudo pip install BioPython
+sudo pip install PySQLite
+
+#blast (ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
+ncbi-blast-2.2.31+-x64-linux.tar.gz
+tar -zxvf ncbi-blast-2.2.31+-x64-linux.tar.gz
+echo 'export PATH=$PATH:/home/qiime/software/kegg/ncbi-blast-2.2.31+/bin' >>~/.bashrc
+
+#install kobas
+tar zxvf kobas2.0-20150126.tar.gz
+cd kobas2.0-20150126
+mkdir sqlite3  #(copy organism.db.gz and ko.db.gz to sqlite3, gzip -d organism.db.gz, gzip -d ko.db.gz)
+mkdir seq_pep  #(copy ko.pep.fasta.gz to seq_pep, gzip -d ko.pep.fasta.gz)
+echo 'export PATH=$PATH:/home/qiime/software/kegg/kobas2.0-20150126/scripts' >>~/.bashrc
+echo 'export PYTHONPATH=$PYTHONPATH:/home/qiime/software/kegg/kobas2.0-20150126/src' >>~/.bashrc
+cd docs
+cp kobasrc ~/.kobasrc  #(modify "kobas_home" and "blast_home")
+cd seq_pep
+makeblastdb -in ko.pep.fasta -dbtype prot
+
+#run
+annotate.py -i allGene.fasta -s ko -t fasta:nuc -o allGene.ann -n 4
+annotate.py -i diff.fasta -s ko -t fasta:nuc -o diff.ann -n 4
+identify.py -f diff.ann -b allGene.ann -d K -o kegg.result.xls
+
+#fisher test
+all   20000  200
+diff  100    30
+

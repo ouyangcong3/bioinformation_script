@@ -1,0 +1,1 @@
+perl getData.pl gene.txt hg38_names.txt hg38_upstream.fa

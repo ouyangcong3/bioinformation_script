@@ -1,0 +1,26 @@
+#go fasta(http://archive.geneontology.org/latest-lite/)  GO协会整理的带有详细GO注释的蛋白序列，收集了576942条蛋白序列
+go_20151031-seqdb.fasta.gz
+gzip -d go_20151031-seqdb.fasta.gz
+
+#gene2go (ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/)
+gene2go.gz
+gzip -d gene2go.gz
+
+#blast (ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
+ncbi-blast-2.2.31+-x64-linux.tar.gz
+tar -zxvf ncbi-blast-2.2.31+-x64-linux.tar.gz
+echo 'export PATH=$PATH:/home/qiime/software/go/database/ncbi-blast-2.2.31+/bin' >>~/.bashrc
+
+#blastx
+makeblastdb -in go_20151031-seqdb.fasta -dbtype prot
+blastx -query allGene.fasta -db /home/bioinfo/software/go/go_20151031-seqdb.fasta -evalue 1e-6 -outfmt 6 -out blastOut.tab -max_target_seqs 10 -num_threads 8
+
+#GO Annotation(perl goAnnotation.pl blastOut allGeneFile diffGeneFile goFastaFile gene2goFile)
+perl goAnnotation.pl blastOut.tab allGene.fasta diff.fasta /home/qiime/software/go/database/go_20151031-seqdb.fasta /home/qiime/software/go/database/gene2go
+
+#GO Enrichment
+Rscript goEnrichment.R
+
+#fisher test
+allGene   20000   100
+diffGene  200     20

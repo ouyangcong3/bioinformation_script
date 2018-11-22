@@ -1,0 +1,32 @@
+##Databases: KEGG PATHWAY
+##Statistical test method: hypergeometric test / Fisher's exact test
+##FDR correction method: Benjamini and Hochberg
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+Epstein-Barr virus infection	KEGG PATHWAY	ko05169	5	6	0.00111612474578	0.0189741206782	seq3|seq16|seq47|seq73|seq68	http://www.genome.jp/kegg-bin/show_pathway?ko05169/K04455%09red/K07606%09red/K03283%09red
+MicroRNAs in cancer	KEGG PATHWAY	ko05206	3	6	0.0347666004032	0.295516103427	seq47|seq73|seq68	http://www.genome.jp/kegg-bin/show_pathway?ko05206/K07606%09red
+HTLV-I infection	KEGG PATHWAY	ko05166	3	8	0.0605965335109	0.343380356561	seq89|seq60|seq91	http://www.genome.jp/kegg-bin/show_pathway?ko05166/K11126%09red/K04374%09red/K09032%09red
+MAPK signaling pathway	KEGG PATHWAY	ko04010	3	11	0.11186241518	0.396442985755	seq3|seq16|seq91	http://www.genome.jp/kegg-bin/show_pathway?ko04010/K04455%09red/K04374%09red/K03283%09red
+Estrogen signaling pathway	KEGG PATHWAY	ko04915	2	5	0.116600878163	0.396442985755	seq3|seq91	http://www.genome.jp/kegg-bin/show_pathway?ko04915/K04374%09red/K03283%09red
+TNF signaling pathway	KEGG PATHWAY	ko04668	1	5	0.42323528409	0.590541762715	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko04668/K04374%09red
+VEGF signaling pathway	KEGG PATHWAY	ko04370	1	5	0.42323528409	0.590541762715	seq16	http://www.genome.jp/kegg-bin/show_pathway?ko04370/K04455%09red
+cGMP-PKG signaling pathway	KEGG PATHWAY	ko04022	1	5	0.42323528409	0.590541762715	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko04022/K04374%09red
+Endocytosis	KEGG PATHWAY	ko04144	1	5	0.42323528409	0.590541762715	seq3	http://www.genome.jp/kegg-bin/show_pathway?ko04144/K03283%09red
+Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	ko04261	1	6	0.474341018411	0.590541762715	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko04261/K04374%09red
+Cholinergic synapse	KEGG PATHWAY	ko04725	1	6	0.474341018411	0.590541762715	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko04725/K04374%09red
+Alcoholism	KEGG PATHWAY	ko05034	1	6	0.474341018411	0.590541762715	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko05034/K04374%09red
+Neurotrophin signaling pathway	KEGG PATHWAY	ko04722	1	6	0.474341018411	0.590541762715	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko04722/K04374%09red
+Hepatitis B	KEGG PATHWAY	ko05161	1	7	0.521066261219	0.590541762715	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko05161/K04374%09red
+Prostate cancer	KEGG PATHWAY	ko05215	1	7	0.521066261219	0.590541762715	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko05215/K04374%09red
+Viral carcinogenesis	KEGG PATHWAY	ko05203	1	9	0.602797164811	0.640471987612	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko05203/K04374%09red
+PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151	1	12	0.700711832741	0.700711832741	seq91	http://www.genome.jp/kegg-bin/show_pathway?ko04151/K04374%09red
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------

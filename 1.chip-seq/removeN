@@ -1,0 +1,77 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my $file = $ARGV[0];
+my $N_ratio=0.05;
+my $file_wf=$ARGV[1];
+chomp($file);
+chomp($N_ratio);
+chomp($file_wf);
+
+my ($flag, $mark) = 0;
+my $four_line = '';
+my $index;
+
+my @file_all = split(/\.f/, $file);
+#my $file_wf  = "$file_all[0]" . ".trimN.result.fq";
+my $file_dn  = "$file_all[0]" . ".N.fq";
+
+open(WF, ">$file_wf") or die $!;
+open(DN, ">$file_dn") or die $!;
+open(RF, "$file")     or die $!;
+while (my $line = <RF>)
+{
+    my $line_two = $line;
+	if($.==1)
+	{
+		if($line=~/^(\@.{2})/)
+		{
+			$index=$1;
+			print "$index\n";
+		}
+	}
+    if ($flag == 1)
+    {
+        chomp($line);
+        my $reads_length = length($line);
+        my @all_N        = ($line =~ /N|n/g);
+        my $N_number     = @all_N;
+        my $ratio        = $N_number / $reads_length;
+        if ($ratio > $N_ratio)
+        {
+            $mark = 0;
+            print "$line\n";
+            print "$N_number/$reads_length";
+        }
+        else
+        {
+            $mark = 1;
+        }
+    }
+
+    if ($line =~ /^$index/)
+    {
+        $flag = 1;
+        if ($. != 1)
+        {
+            if ($mark == 1)
+            {
+                print WF $four_line;
+            }
+            else { print DN $four_line; }
+        }
+        $four_line = '';
+    }
+    else { $flag = 0; }
+    $four_line .= $line_two;
+}
+close(RF);
+if ($mark == 1)
+{
+    print WF $four_line;
+}
+else { print DN $four_line; }
+close(WF);
+close(DN);
+

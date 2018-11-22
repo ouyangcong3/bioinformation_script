@@ -1,0 +1,49 @@
+######Video source: https://shop119322454.taobao.com
+[QC] software: FastQC(fastqc)+Cutadapt(cutadapt)+FASTX-Toolkit(fastq_quality_filter)+bbmap(repair.sh)
+mkdir qcOutdir
+fastqc ERR500.R1.fq -t 2 -o qcOutdir
+fastqc ERR500.R2.fq -t 2 -o qcOutdir
+
+cutadapt -a AGATCGGAAGAGCACACGTCTGAACTCCAGTC ERR499.R1.fq -m 30 --output=ERR499.cutAd1.fq
+cutadapt -a AGATCGGAAGAGCACACGTCTGAACTCCAGTC ERR499.R2.fq -m 30 --output=ER499.cutAd2.fq
+
+./removeN ERR500.cutAd1.fq ERR500.unknowNul1.fq
+./removeN ERR500.cutAd2.fq ERR500.unknowNul2.fq
+
+fastq_quality_filter -q 20 -p 70 -i ERR499.unknowNul1.fq -o ERR499.qual1.fq
+fastq_quality_filter -q 20 -p 70 -i ER499.unknowNul2.fq -o ERR499.qual2.fq
+
+/home/lqd/Software/bbmap/repair.sh in=ERR499.qual1.fq in2=ERR499.qual2.fq out=ERR499.clean1.fq out2=ERR499.clean2.fq
+
+/root/QualityControl/FastQC/fastqc ERR499.clean1.fq -t 2 -o qcOutdir
+/root/QualityControl/FastQC/fastqc ERR499.clean2.fq -t 2 -o qcOutdir
+
+[mapping] software: TopHat2(tophat2)+SAMtools(samtools)+RSeQC(read_distribution.py|geneBody_coverage.py|junction_saturation.py)
+tophat2 -o mappingOut500 -p 10 --read-mismatches 2 -r 50 --library-type fr-unstranded /home/lqd/Database/hg38/hg38 ERR500.clean1.fq ERR500.clean2.fq
+tophat2 -o mappingOut499 -p 10 --read-mismatches 2 -r 50 --library-type fr-unstranded /home/lqd/Database/hg38/hg38 ERR499.clean1.fq ERR499.clean2.fq
+free
+
+samtools view -h accepted_hits.bam |awk '$1~/^@/||$5==50{print $0}' |samtools view -bhS - >ERR499.unique.bam
+samtools index ERR499.unique.bam
+
+samtools sort ERR500.unique.bam
+
+
+read_distribution.py -i ERR500.unique.bam -r /database/bed/hg19.bed
+geneBody_coverage.py -i ERR500.unique.bam -r /data/lb/software/bed/hg19.bed -o ERR500
+junction_saturation.py -i ERR500.unique.bam -r /data/lb/software/bed/hg19.bed -o ERR500
+
+[expression] software: HTSeq-count(htseq-count)+Cufflinks(cufflinks|cuffdiff)
+#edgeR DEseq DEGSeq
+htseq-count --stranded=no --format=bam --order=pos --idattr=gene_id --mode=intersection-nonempty -q /home/ouyangcong3/rnaseq2/REMOVEN/mappingOut500/ERR500.unique.bam /home/ouyangcong3/database/hg38.gtf.cp >ERR500.htseq_count.xls
+#DEGseq voom+limma
+cufflinks -o cufflinks500 --library-type fr-unstranded -G /data/lb/software/rnaSoft/database/hg19.gtf /data/lb/software/rnaSoft/test/mappingOut500/ERR500.unique.bam
+cuffdiff -b /data/lb/software/vcf/ucsc.hg19.fasta -L S499,S500 -o diff --library-type fr-unstranded -u /data/lb/software/rnaSoft/database/hg19.gtf /data/lb/software/rnaSoft/test/mappingOut499/ERR499.unique.bam /data/lb/software/rnaSoft/test/mappingOut500/ERR500.unique.bam
+
+[lncRNA] software: Cufflinks(cufflinks|cuffcompare)+TopHat2(gtf_to_fasta)
+cufflinks -o novel500 --library-type fr-unstranded -g /data/lb/software/rnaSoft/database/hg19.gtf /data/lb/software/rnaSoft/test/mappingOut500/ERR500.unique.bam
+cuffcompare -s /data/lb/software/vcf/ucsc.hg19.fasta -r /data/lb/software/rnaSoft/database/hg19.gtf -R -o compareGtf /data/lb/software/rnaSoft/test/novel500/transcripts.gtf 
+grep "class_code \"u\"" compareGtf.combined.gtf >novel.gtf
+gtf_to_fasta novel.gtf /data/lb/software/vcf/ucsc.hg19.fasta novel.fa
+
+

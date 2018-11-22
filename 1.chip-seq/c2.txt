@@ -1,0 +1,54 @@
+######Video source: https://shop119322454.taobao.com
+[QC] software: FastQC(fastqc)+Cutadapt(cutadapt)+FASTX-Toolkit(fastq_quality_filter)
+mkdir qcOutdir  
+/home/ouyangcong3/rnaseq/FastQC/fastqc SRR069066.fastq -t 2 -o qcOutdir
+cutadapt -a AGATCGGAAGAGCACACGTCTGAACTCCAGTC SRR069066.fastq -m 30 --output=ERR990.cutAd1.fq
+./removeN ERR990.cutAd1.fq ERR990.unknowNul1.fq
+fastq_quality_filter -q 20 -p 70 -i ERR990.cutAd1.fq -o ERR990.clean1.fq  #-Q 33
+
+/home/ouyangcong3/rnaseq/FastQC/fastqc ERR990.clean1.fq -t 2 -o qcOutdir
+fastqc ERR990.clean1.fq -t 2 -o qcOutdir
+
+cp /home/ouyangcong3/database/ERR990.cutAd1.fq /root/QualityControl
+
+[mapping] software: bowtie2(bowtie2+bowtie2-build)+samtools(samtools) 
+bowtie2-build hg19.fa hg19
+#http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
+
+bowtie2 -p 15 -x /home/lqd/Database/hg19/hg19 ERR990.clean1.fq -S ERR990.sam
+
+
+bowtie2 -p 15 -x /home/yun/bio/reference/hg19/hg19 ERR990.clean1.fq -S ERR990.sam
+grep -v "XS:i:" ERR990.sam |samtools view -bS - >ERR990.unique.bam
+
+e2ate=read.table("sample_peaks.xls",sep="\t",header=T,skip=19)
+
+[call peaks] software: MACS(macs14)
+#http://liulab.dfci.harvard.edu/MACS/
+#MACS install: python setup.py install
+macs14 -t ERR990.unique.bam -c ERR997.unique.bam -f BAM -g hs -n sample -p 1e-5 -B
+#macs14 -t ERR990.unique.bam -f BAM -g hs -n sample -p 1e-5 -B
+Rscript sample_model.r
+Rscript hist.R
+Rscript peakView.R
+
+
+
+[homer] software: Homer(findMotifsGenome.pl|annotatePeaks.pl)
+#http://homer.salk.edu/homer/introduction/install.html
+#perl configureHomer.pl -list
+#perl configureHomer.pl -install homer
+
+#perl configureHomer.pl -install hg19
+#Ghostscript + Weblogo + blat + samtools 
+
+findMotifsGenome.pl sample_homer.bed hg19 motifDir -len 8,10,12
+
+awk '{print $4"\t"$1"\t"$2"\t"$3"\t+"}' sample_peaks.bed >sample_homer.bed
+findMotifsGenome.pl sample_homer.bed hg19 motifDir -len 8,10,12
+annotatePeaks.pl sample_homer.bed hg19 1>peakAnn.xls 2>annLog.txt    #-go GODir
+#annotatePeaks.pl sample_homer.bed hg19 -go GODir 1>peakAnn.xls 2>annLog.txt
+awk -F "\t" 'NR>1{ split($8, arr, "("); sub(" ","",arr[1]); print arr[1]}' peakAnn.xls |sort |uniq -c |awk '{print $2"\t"$1}' >peakRegionStat.xls
+Rscript pie.R
+
+conda install wget r-essentials bioconductor-deseq2 bioconductor-edger

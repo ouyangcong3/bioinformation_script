@@ -1,0 +1,197 @@
+GOId	Term	Category	Gene	X	N	x	n
+GO:0003725	double-stranded RNA binding	Molecular_Function	seq68|seq47|seq73	3	241	3	8
+GO:0045892	negative regulation of transcription, DNA-templated	Biological_Process	seq89|seq91	20	241	2	8
+GO:0016740	transferase activity	Molecular_Function	seq60	17	241	1	8
+GO:0010977	negative regulation of neuron projection development	Biological_Process	seq47|seq73|seq68	6	241	3	8
+GO:0008284	positive regulation of cell proliferation	Biological_Process	seq89	13	241	1	8
+GO:0045098	type III intermediate filament	Cellular_Component	seq47|seq73|seq68	3	241	3	8
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter	Biological_Process	seq91|seq89	49	241	2	8
+GO:0007623	circadian rhythm	Biological_Process	seq91	1	241	1	8
+GO:0045111	intermediate filament cytoskeleton	Cellular_Component	seq47|seq73|seq68	3	241	3	8
+GO:0005882	intermediate filament	Cellular_Component	seq47|seq73|seq68	5	241	3	8
+GO:0043066	negative regulation of apoptotic process	Biological_Process	seq16|seq91	18	241	2	8
+GO:1902176	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	Biological_Process	seq16	1	241	1	8
+GO:0042594	response to starvation	Biological_Process	seq3	2	241	1	8
+GO:0005654	nucleoplasm	Cellular_Component	seq91|seq60	56	241	2	8
+GO:0009408	response to heat	Biological_Process	seq3	3	241	1	8
+GO:0030529	ribonucleoprotein complex	Cellular_Component	seq60	5	241	1	8
+GO:0042635	positive regulation of hair cycle	Biological_Process	seq60	1	241	1	8
+GO:0043292	contractile fiber	Cellular_Component	seq16	2	241	1	8
+GO:0048471	perinuclear region of cytoplasm	Cellular_Component	seq47|seq73|seq68	11	241	3	8
+GO:0045103	intermediate filament-based process	Biological_Process	seq47|seq73|seq68	4	241	3	8
+GO:0010269	response to selenium ion	Biological_Process	seq47|seq73	2	241	2	8
+GO:0050770	regulation of axonogenesis	Biological_Process	seq47|seq73|seq68	7	241	3	8
+GO:0022008	neurogenesis	Biological_Process	seq3	6	241	1	8
+GO:0005080	protein kinase C binding	Molecular_Function	seq16	3	241	1	8
+GO:0043403	skeletal muscle tissue regeneration	Biological_Process	seq47|seq73	2	241	2	8
+GO:1903704	negative regulation of production of siRNA involved in RNA interference	Biological_Process	seq60	1	241	1	8
+GO:0005200	structural constituent of cytoskeleton	Molecular_Function	seq47|seq73|seq68	4	241	3	8
+GO:0006446	regulation of translational initiation	Biological_Process	seq16	1	241	1	8
+GO:0008150	biological_process	Biological_Process	seq47|seq73|seq60|seq68	35	241	4	8
+GO:0097110	scaffold protein binding	Molecular_Function	seq47|seq73|seq68	7	241	3	8
+GO:0005829	cytosol	Cellular_Component	seq16|seq47|seq73|seq68	47	241	4	8
+GO:0005667	transcription factor complex	Cellular_Component	seq91	15	241	1	8
+GO:0008340	determination of adult lifespan	Biological_Process	seq3	2	241	1	8
+GO:0000781	chromosome, telomeric region	Cellular_Component	seq60	1	241	1	8
+GO:0007005	mitochondrion organization	Biological_Process	seq60	1	241	1	8
+GO:0000333	telomerase catalytic core complex	Cellular_Component	seq60	1	241	1	8
+GO:0005575	cellular_component	Cellular_Component	seq3	37	241	1	8
+GO:0035264	multicellular organism growth	Biological_Process	seq91	3	241	1	8
+GO:0051000	positive regulation of nitric-oxide synthase activity	Biological_Process	seq60	2	241	1	8
+GO:0006355	regulation of transcription, DNA-templated	Biological_Process	seq91	69	241	1	8
+GO:0035924	cellular response to vascular endothelial growth factor stimulus	Biological_Process	seq16	2	241	1	8
+GO:0007004	telomere maintenance via telomerase	Biological_Process	seq60	1	241	1	8
+GO:0019900	kinase binding	Molecular_Function	seq68|seq47|seq91|seq73	6	241	4	8
+GO:0005813	centrosome	Cellular_Component	seq91	8	241	1	8
+GO:0010467	gene expression	Biological_Process	seq16	16	241	1	8
+GO:0070062	extracellular exosome	Cellular_Component	seq68|seq16|seq47|seq73	38	241	4	8
+GO:0031379	RNA-directed RNA polymerase complex	Cellular_Component	seq60	1	241	1	8
+GO:0042995	cell projection	Cellular_Component	seq68|seq47|seq73	17	241	3	8
+GO:0032774	RNA biosynthetic process	Biological_Process	seq60	1	241	1	8
+GO:0005739	mitochondrion	Cellular_Component	seq3|seq60	12	241	2	8
+GO:0010043	response to zinc ion	Biological_Process	seq47|seq73	2	241	2	8
+GO:0071456	cellular response to hypoxia	Biological_Process	seq60	5	241	1	8
+GO:1903984	positive regulation of TRAIL-activated apoptotic signaling pathway	Biological_Process	seq89	1	241	1	8
+GO:0005623	cell	Cellular_Component	seq68|seq47	9	241	2	8
+GO:0008426	protein kinase C inhibitor activity	Molecular_Function	seq16	1	241	1	8
+GO:0030424	axon	Cellular_Component	seq68|seq47|seq73	13	241	3	8
+GO:0044212	transcription regulatory region DNA binding	Molecular_Function	seq91|seq89	7	241	2	8
+GO:0007568	aging	Biological_Process	seq47|seq73	5	241	2	8
+GO:0034198	cellular response to amino acid starvation	Biological_Process	seq89	2	241	1	8
+GO:1900147	regulation of Schwann cell migration	Biological_Process	seq68|seq47|seq73	3	241	3	8
+GO:0031427	response to methotrexate	Biological_Process	seq3	1	241	1	8
+GO:0021891	olfactory bulb interneuron development	Biological_Process	seq91	1	241	1	8
+GO:0006351	transcription, DNA-templated	Biological_Process	seq91|seq89	62	241	2	8
+GO:0005615	extracellular space	Cellular_Component	seq16	24	241	1	8
+GO:0001228	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding	Molecular_Function	seq91	7	241	1	8
+GO:0043488	regulation of mRNA stability	Biological_Process	seq16	2	241	1	8
+GO:1902750	negative regulation of cell cycle G2/M phase transition	Biological_Process	seq91	1	241	1	8
+GO:0060020	Bergmann glial cell differentiation	Biological_Process	seq68|seq47|seq73	5	241	3	8
+GO:0046697	decidualization	Biological_Process	seq47|seq73	2	241	2	8
+GO:0045893	positive regulation of transcription, DNA-templated	Biological_Process	seq91	28	241	1	8
+GO:0070307	lens fiber cell development	Biological_Process	seq68|seq47|seq73	3	241	3	8
+GO:0001701	in utero embryonic development	Biological_Process	seq68|seq47|seq73	13	241	3	8
+GO:0001078	transcriptional repressor activity, RNA polymerase II core promoter proximal region sequence-specific binding	Molecular_Function	seq89	9	241	1	8
+GO:0005856	cytoskeleton	Cellular_Component	seq68|seq16|seq47|seq73	11	241	4	8
+GO:0070373	negative regulation of ERK1 and ERK2 cascade	Biological_Process	seq89	3	241	1	8
+GO:0012501	programmed cell death	Biological_Process	seq68|seq73	3	241	2	8
+GO:0071897	DNA biosynthetic process	Biological_Process	seq60	1	241	1	8
+GO:0006357	regulation of transcription from RNA polymerase II promoter	Biological_Process	seq91|seq89	25	241	2	8
+GO:0005819	spindle	Cellular_Component	seq16	4	241	1	8
+GO:0005634	nucleus	Cellular_Component	seq3|seq60|seq16|seq91|seq89	124	241	5	8
+GO:0043122	regulation of I-kappaB kinase/NF-kappaB signaling	Biological_Process	seq16	2	241	1	8
+GO:0005730	nucleolus	Cellular_Component	seq60|seq89	14	241	2	8
+GO:0022616	DNA strand elongation	Biological_Process	seq60	1	241	1	8
+GO:0019901	protein kinase binding	Molecular_Function	seq68|seq16|seq47|seq73	13	241	4	8
+GO:0009791	post-embryonic development	Biological_Process	seq91	3	241	1	8
+GO:0003721	telomeric template RNA reverse transcriptase activity	Molecular_Function	seq60	1	241	1	8
+GO:0046982	protein heterodimerization activity	Molecular_Function	seq89	25	241	1	8
+GO:0016363	nuclear matrix	Cellular_Component	seq47|seq73	4	241	2	8
+GO:0005198	structural molecule activity	Molecular_Function	seq68|seq47|seq73	6	241	3	8
+GO:0006921	cellular component disassembly involved in execution phase of apoptosis	Biological_Process	seq68|seq73	2	241	2	8
+GO:0005622	intracellular	Cellular_Component	seq16	15	241	1	8
+GO:0042645	mitochondrial nucleoid	Cellular_Component	seq60	1	241	1	8
+GO:0005524	ATP binding	Molecular_Function	seq3	12	241	1	8
+GO:0001895	retina homeostasis	Biological_Process	seq16	2	241	1	8
+GO:0046605	regulation of centrosome cycle	Biological_Process	seq91	1	241	1	8
+GO:0014002	astrocyte development	Biological_Process	seq68|seq47|seq73	5	241	3	8
+GO:0032355	response to estradiol	Biological_Process	seq47|seq73	5	241	2	8
+GO:0003682	chromatin binding	Molecular_Function	seq91	23	241	1	8
+GO:0032731	positive regulation of interleukin-1 beta production	Biological_Process	seq16	3	241	1	8
+GO:0000049	tRNA binding	Molecular_Function	seq60	2	241	1	8
+GO:0003714	transcription corepressor activity	Molecular_Function	seq91	6	241	1	8
+GO:0000977	RNA polymerase II regulatory region sequence-specific DNA binding	Molecular_Function	seq91|seq89	13	241	2	8
+GO:1990572	TERT-RMRP complex	Cellular_Component	seq60	1	241	1	8
+GO:0006278	RNA-dependent DNA replication	Biological_Process	seq60	1	241	1	8
+GO:0031252	cell leading edge	Cellular_Component	seq68|seq47|seq73	3	241	3	8
+GO:0003677	DNA binding	Molecular_Function	seq60|seq89	70	241	2	8
+GO:2001234	negative regulation of apoptotic signaling pathway	Biological_Process	seq16	1	241	1	8
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	Biological_Process	seq16	8	241	1	8
+GO:1990622	CHOP-ATF3 complex	Cellular_Component	seq89	1	241	1	8
+GO:0001709	cell fate determination	Biological_Process	seq89	2	241	1	8
+GO:0016032	viral process	Biological_Process	seq68|seq73	10	241	2	8
+GO:0001666	response to hypoxia	Biological_Process	seq3	13	241	1	8
+GO:0008022	protein C-terminus binding	Molecular_Function	seq68|seq47|seq73	9	241	3	8
+GO:0000976	transcription regulatory region sequence-specific DNA binding	Molecular_Function	seq89	2	241	1	8
+GO:0035556	intracellular signal transduction	Biological_Process	seq16	9	241	1	8
+GO:0006366	transcription from RNA polymerase II promoter	Biological_Process	seq91	28	241	1	8
+GO:0000502	proteasome complex	Cellular_Component	seq16	1	241	1	8
+GO:0000122	negative regulation of transcription from RNA polymerase II promoter	Biological_Process	seq89	32	241	1	8
+GO:1990254	keratin filament binding	Molecular_Function	seq68|seq47|seq73	3	241	3	8
+GO:0044822	poly(A) RNA binding	Molecular_Function	seq16	16	241	1	8
+GO:0010628	positive regulation of gene expression	Biological_Process	seq68|seq47|seq89|seq73	9	241	4	8
+GO:0003723	RNA binding	Molecular_Function	seq60	12	241	1	8
+GO:0038033	positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	Biological_Process	seq16	1	241	1	8
+GO:1902895	positive regulation of pri-miRNA transcription from RNA polymerase II promoter	Biological_Process	seq60	1	241	1	8
+GO:0043565	sequence-specific DNA binding	Molecular_Function	seq91|seq89	41	241	2	8
+GO:0070527	platelet aggregation	Biological_Process	seq16	1	241	1	8
+GO:0003964	RNA-directed DNA polymerase activity	Molecular_Function	seq60	1	241	1	8
+GO:0005515	protein binding	Molecular_Function	seq60|seq68|seq16|seq47|seq91|seq73	124	241	6	8
+GO:0005811	lipid particle	Cellular_Component	seq3	1	241	1	8
+GO:0001172	transcription, RNA-templated	Biological_Process	seq60	1	241	1	8
+GO:0005737	cytoplasm	Cellular_Component	seq3|seq60|seq68|seq16|seq47|seq91|seq73	103	241	7	8
+GO:0030049	muscle filament sliding	Biological_Process	seq68|seq73	2	241	2	8
+GO:0006986	response to unfolded protein	Biological_Process	seq16	3	241	1	8
+GO:0030177	positive regulation of Wnt signaling pathway	Biological_Process	seq60	5	241	1	8
+GO:0003968	RNA-directed RNA polymerase activity	Molecular_Function	seq60	1	241	1	8
+GO:0030968	endoplasmic reticulum unfolded protein response	Biological_Process	seq89	3	241	1	8
+GO:0030422	production of siRNA involved in RNA interference	Biological_Process	seq60	1	241	1	8
+GO:0005875	microtubule associated complex	Cellular_Component	seq3	2	241	1	8
+GO:0042803	protein homodimerization activity	Molecular_Function	seq60|seq89	34	241	2	8
+GO:0051082	unfolded protein binding	Molecular_Function	seq3	2	241	1	8
+GO:0009615	response to virus	Biological_Process	seq16	1	241	1	8
+GO:0060252	positive regulation of glial cell proliferation	Biological_Process	seq68|seq47|seq73	4	241	3	8
+GO:0003700	transcription factor activity, sequence-specific DNA binding	Molecular_Function	seq91|seq89	51	241	2	8
+GO:1990440	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	Biological_Process	seq89	3	241	1	8
+GO:0003720	telomerase activity	Molecular_Function	seq60	1	241	1	8
+GO:2000648	positive regulation of stem cell proliferation	Biological_Process	seq60	1	241	1	8
+GO:0016605	PML body	Cellular_Component	seq60	2	241	1	8
+GO:0005925	focal adhesion	Cellular_Component	seq68|seq16|seq47|seq73	10	241	4	8
+GO:2001028	positive regulation of endothelial cell chemotaxis	Biological_Process	seq16	2	241	1	8
+GO:0045444	fat cell differentiation	Biological_Process	seq47|seq91|seq73	4	241	3	8
+GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding	Molecular_Function	seq91	14	241	1	8
+GO:2000773	negative regulation of cellular senescence	Biological_Process	seq60	2	241	1	8
+GO:0035080	heat shock-mediated polytene chromosome puffing	Biological_Process	seq3	1	241	1	8
+GO:0016779	nucleotidyltransferase activity	Molecular_Function	seq60	1	241	1	8
+GO:0044344	cellular response to fibroblast growth factor stimulus	Biological_Process	seq47|seq73	4	241	2	8
+GO:0006094	gluconeogenesis	Biological_Process	seq89	1	241	1	8
+GO:0043005	neuron projection	Cellular_Component	seq68|seq47|seq73	12	241	3	8
+GO:0001223	transcription coactivator binding	Molecular_Function	seq60	1	241	1	8
+GO:0060395	SMAD protein signal transduction	Biological_Process	seq68|seq47|seq73	7	241	3	8
+GO:0030018	Z disc	Cellular_Component	seq16	4	241	1	8
+GO:0005694	chromosome	Cellular_Component	seq60	2	241	1	8
+GO:0090399	replicative senescence	Biological_Process	seq60	1	241	1	8
+GO:0033280	response to vitamin D	Biological_Process	seq47|seq73	2	241	2	8
+GO:0010629	negative regulation of gene expression	Biological_Process	seq60	6	241	1	8
+GO:0046872	metal ion binding	Molecular_Function	seq60	86	241	1	8
+GO:0044297	cell body	Cellular_Component	seq68|seq47|seq73	6	241	3	8
+GO:0001948	glycoprotein binding	Molecular_Function	seq68|seq47|seq73	3	241	3	8
+GO:0042802	identical protein binding	Molecular_Function	seq68|seq16|seq47|seq89|seq73	18	241	5	8
+GO:0070034	telomeric RNA binding	Molecular_Function	seq60	1	241	1	8
+GO:0043130	ubiquitin binding	Molecular_Function	seq16	5	241	1	8
+GO:0005777	peroxisome	Cellular_Component	seq68|seq47|seq73	3	241	3	8
+GO:0006928	movement of cell or subcellular component	Biological_Process	seq68|seq16|seq73	6	241	3	8
+GO:0000723	telomere maintenance	Biological_Process	seq60	1	241	1	8
+GO:0042162	telomeric DNA binding	Molecular_Function	seq60	2	241	1	8
+GO:0006457	protein folding	Biological_Process	seq3	2	241	1	8
+GO:0000978	RNA polymerase II core promoter proximal region sequence-specific DNA binding	Molecular_Function	seq89	26	241	1	8
+GO:0009314	response to radiation	Biological_Process	seq47|seq73	4	241	2	8
+GO:0043536	positive regulation of blood vessel endothelial cell migration	Biological_Process	seq16	3	241	1	8
+GO:0042535	positive regulation of tumor necrosis factor biosynthetic process	Biological_Process	seq16	1	241	1	8
+GO:0030496	midbody	Cellular_Component	seq47|seq73	3	241	2	8
+GO:0015631	tubulin binding	Molecular_Function	seq91	1	241	1	8
+GO:0005886	plasma membrane	Cellular_Component	seq68|seq16|seq47|seq73	52	241	4	8
+GO:0000783	nuclear telomere cap complex	Cellular_Component	seq60	1	241	1	8
+GO:0045109	intermediate filament organization	Biological_Process	seq68|seq47|seq73	4	241	3	8
+GO:0006915	apoptotic process	Biological_Process	seq68|seq73	18	241	2	8
+GO:0051721	protein phosphatase 2A binding	Molecular_Function	seq68|seq47|seq73	3	241	3	8
+GO:0035914	skeletal muscle cell differentiation	Biological_Process	seq89	5	241	1	8
+GO:0000982	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding	Molecular_Function	seq89	1	241	1	8
+GO:0008285	negative regulation of cell proliferation	Biological_Process	seq91	12	241	1	8
+GO:0021930	cerebellar granule cell precursor proliferation	Biological_Process	seq91	1	241	1	8
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	Biological_Process	seq60	4	241	1	8
+GO:0071901	negative regulation of protein serine/threonine kinase activity	Biological_Process	seq16	1	241	1	8
+GO:0005697	telomerase holoenzyme complex	Cellular_Component	seq60	1	241	1	8
+GO:0005212	structural constituent of eye lens	Molecular_Function	seq68|seq47|seq73	4	241	3	8
+GO:0006469	negative regulation of protein kinase activity	Biological_Process	seq16	1	241	1	8
+GO:0045766	positive regulation of angiogenesis	Biological_Process	seq16	7	241	1	8

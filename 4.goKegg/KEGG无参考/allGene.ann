@@ -1,0 +1,1464 @@
+##ko	KEGG Orthology
+##Method: BLAST	Options: evalue <= 1e-05; rank <= 5
+##Summary:	162 succeed, 79 fail
+
+#Query	KO ID|KO name|Hyperlink
+seq1	None
+seq2	None
+seq3	K03283|HSPA1_8|http://www.genome.jp/dbget-bin/www_bget?ko:K03283
+seq4	K10843|ERCC3, XPB|http://www.genome.jp/dbget-bin/www_bget?ko:K10843
+seq5	K12178|COPS4, CSN4|http://www.genome.jp/dbget-bin/www_bget?ko:K12178
+seq6	K11274|WDHD1, CTF4|http://www.genome.jp/dbget-bin/www_bget?ko:K11274
+seq7	None
+seq8	K08957|CSNK1A|http://www.genome.jp/dbget-bin/www_bget?ko:K08957
+seq9	K06267|HMMR, RHAMM|http://www.genome.jp/dbget-bin/www_bget?ko:K06267
+seq10	K10394|KIF3_17|http://www.genome.jp/dbget-bin/www_bget?ko:K10394
+seq11	None
+seq12	K10400|KIF15|http://www.genome.jp/dbget-bin/www_bget?ko:K10400
+seq13	K00432|E1.11.1.9|http://www.genome.jp/dbget-bin/www_bget?ko:K00432
+seq14	K11493|RCC1|http://www.genome.jp/dbget-bin/www_bget?ko:K11493
+seq15	None
+seq16	K04455|HSPB1|http://www.genome.jp/dbget-bin/www_bget?ko:K04455
+seq17	K17814|CYP1E|http://www.genome.jp/dbget-bin/www_bget?ko:K17814
+seq18	K01830|E5.3.99.2, PTGDS|http://www.genome.jp/dbget-bin/www_bget?ko:K01830
+seq19	None
+seq20	None
+seq21	K01830|E5.3.99.2, PTGDS|http://www.genome.jp/dbget-bin/www_bget?ko:K01830
+seq22	K15261|PARP10_14_15|http://www.genome.jp/dbget-bin/www_bget?ko:K15261
+seq23	K09199|SP9|http://www.genome.jp/dbget-bin/www_bget?ko:K09199
+seq24	None
+seq25	None
+seq26	None
+seq27	None
+seq28	K09395|FOXB|http://www.genome.jp/dbget-bin/www_bget?ko:K09395
+seq29	K00542|GAMT|http://www.genome.jp/dbget-bin/www_bget?ko:K00542
+seq30	K00542|GAMT|http://www.genome.jp/dbget-bin/www_bget?ko:K00542
+seq31	K00542|GAMT|http://www.genome.jp/dbget-bin/www_bget?ko:K00542
+seq32	K07424|CYP3A|http://www.genome.jp/dbget-bin/www_bget?ko:K07424
+seq33	K07424|CYP3A|http://www.genome.jp/dbget-bin/www_bget?ko:K07424
+seq34	K08035|FOXA2, HNF3B|http://www.genome.jp/dbget-bin/www_bget?ko:K08035
+seq35	None
+seq36	K06620|E2F3|http://www.genome.jp/dbget-bin/www_bget?ko:K06620
+seq37	None
+seq38	None
+seq39	K08035|FOXA2, HNF3B|http://www.genome.jp/dbget-bin/www_bget?ko:K08035
+seq40	None
+seq41	K00933|E2.7.3.2|http://www.genome.jp/dbget-bin/www_bget?ko:K00933
+seq42	None
+seq43	K11254|H4|http://www.genome.jp/dbget-bin/www_bget?ko:K11254
+seq44	K04500|SMAD2_3|http://www.genome.jp/dbget-bin/www_bget?ko:K04500
+seq45	None
+seq46	K07611|LMNB|http://www.genome.jp/dbget-bin/www_bget?ko:K07611
+seq47	K07606|VIM|http://www.genome.jp/dbget-bin/www_bget?ko:K07606
+seq48	K05640|GFAP|http://www.genome.jp/dbget-bin/www_bget?ko:K05640
+seq49	K09643|TMPRSS13, TMPRSS11|http://www.genome.jp/dbget-bin/www_bget?ko:K09643
+seq50	None
+seq51	None
+seq52	K06530|CD109|http://www.genome.jp/dbget-bin/www_bget?ko:K06530
+seq53	K09064|MYOD1, MYF3|http://www.genome.jp/dbget-bin/www_bget?ko:K09064
+seq54	None
+seq55	None
+seq56	None
+seq57	None
+seq58	None
+seq59	K04194|CCKAR|http://www.genome.jp/dbget-bin/www_bget?ko:K04194
+seq60	K11126|TERT, EST2|http://www.genome.jp/dbget-bin/www_bget?ko:K11126
+seq61	None
+seq62	K09064|MYOD1, MYF3|http://www.genome.jp/dbget-bin/www_bget?ko:K09064
+seq63	K12044|TNNI3|http://www.genome.jp/dbget-bin/www_bget?ko:K12044
+seq64	None
+seq65	None
+seq66	K04280|GNRHR|http://www.genome.jp/dbget-bin/www_bget?ko:K04280
+seq67	K09218|SNAIN|http://www.genome.jp/dbget-bin/www_bget?ko:K09218
+seq68	K07606|VIM|http://www.genome.jp/dbget-bin/www_bget?ko:K07606
+seq69	None
+seq70	None
+seq71	None
+seq72	K17778|TIM10|http://www.genome.jp/dbget-bin/www_bget?ko:K17778
+seq73	K07606|VIM|http://www.genome.jp/dbget-bin/www_bget?ko:K07606
+seq74	K09624|PRSS12|http://www.genome.jp/dbget-bin/www_bget?ko:K09624
+seq75	K09631|HGFAC|http://www.genome.jp/dbget-bin/www_bget?ko:K09631
+seq76	K17089|ANXA3|http://www.genome.jp/dbget-bin/www_bget?ko:K17089
+seq77	K04892|KCND2|http://www.genome.jp/dbget-bin/www_bget?ko:K04892
+seq78	None
+seq79	None
+seq80	None
+seq81	K09097|ARNT|http://www.genome.jp/dbget-bin/www_bget?ko:K09097
+seq82	K05723|FGD4|http://www.genome.jp/dbget-bin/www_bget?ko:K05723
+seq83	K04358|FGF|http://www.genome.jp/dbget-bin/www_bget?ko:K04358
+seq84	K09067|ASCL|http://www.genome.jp/dbget-bin/www_bget?ko:K09067
+seq85	K14031|NR2CN|http://www.genome.jp/dbget-bin/www_bget?ko:K14031
+seq86	K04280|GNRHR|http://www.genome.jp/dbget-bin/www_bget?ko:K04280
+seq87	K09045|ATF7, ATFA|http://www.genome.jp/dbget-bin/www_bget?ko:K09045
+seq88	None
+seq89	K09032|ATF3, LRF1|http://www.genome.jp/dbget-bin/www_bget?ko:K09032
+seq90	K09370|ISL1|http://www.genome.jp/dbget-bin/www_bget?ko:K09370
+seq91	K04374|ATF4, CREB2|http://www.genome.jp/dbget-bin/www_bget?ko:K04374
+seq92	None
+seq93	K02157|AXIN1|http://www.genome.jp/dbget-bin/www_bget?ko:K02157
+seq94	K12872|RBM22, SLT11|http://www.genome.jp/dbget-bin/www_bget?ko:K12872
+seq95	K09405|FOXL|http://www.genome.jp/dbget-bin/www_bget?ko:K09405
+seq96	K06580|SLC42A, RHAG, RHBG, RHCG|http://www.genome.jp/dbget-bin/www_bget?ko:K06580
+seq97	K15618|BCL6|http://www.genome.jp/dbget-bin/www_bget?ko:K15618
+seq98	K10646|TRAF7, RFWD1|http://www.genome.jp/dbget-bin/www_bget?ko:K10646
+seq99	None
+seq100	K04662|BMP2_4|http://www.genome.jp/dbget-bin/www_bget?ko:K04662
+seq101	K13056|C3H-4|http://www.genome.jp/dbget-bin/www_bget?ko:K13056
+seq102	K16621|BMP7|http://www.genome.jp/dbget-bin/www_bget?ko:K16621
+seq103	K09228|KRAB|http://www.genome.jp/dbget-bin/www_bget?ko:K09228
+seq104	K13103|TFIP11|http://www.genome.jp/dbget-bin/www_bget?ko:K13103
+seq105	K07967|B4GALT2|http://www.genome.jp/dbget-bin/www_bget?ko:K07967
+seq106	K10049|CEBPG|http://www.genome.jp/dbget-bin/www_bget?ko:K10049
+seq107	K11307|MYST2, HBO1, KAT7|http://www.genome.jp/dbget-bin/www_bget?ko:K11307
+seq108	None
+seq109	None
+seq110	None
+seq111	None
+seq112	K14832|MAK21, NOC1, CEBPZ|http://www.genome.jp/dbget-bin/www_bget?ko:K14832
+seq113	None
+seq114	K04462|EVI1|http://www.genome.jp/dbget-bin/www_bget?ko:K04462
+seq115	K06066|CIR|http://www.genome.jp/dbget-bin/www_bget?ko:K06066
+seq116	K09232|GLIS1_3|http://www.genome.jp/dbget-bin/www_bget?ko:K09232
+seq117	None
+seq118	K09312|CDX|http://www.genome.jp/dbget-bin/www_bget?ko:K09312
+seq119	K08883|TRIM33, TIF1G|http://www.genome.jp/dbget-bin/www_bget?ko:K08883
+seq120	None
+seq121	K12581|CNOT7_8, CAF1, POP2|http://www.genome.jp/dbget-bin/www_bget?ko:K12581
+seq122	K12597|AIR1_2|http://www.genome.jp/dbget-bin/www_bget?ko:K12597
+seq123	K14636|SLC18A3, VACHT|http://www.genome.jp/dbget-bin/www_bget?ko:K14636
+seq124	None
+seq125	K09103|EBF, COE|http://www.genome.jp/dbget-bin/www_bget?ko:K09103
+seq126	K16060|BIRC2_3|http://www.genome.jp/dbget-bin/www_bget?ko:K16060
+seq127	K11294|NCL, NSR1|http://www.genome.jp/dbget-bin/www_bget?ko:K11294
+seq128	None
+seq129	None
+seq130	K11847|USP19|http://www.genome.jp/dbget-bin/www_bget?ko:K11847
+seq131	K01580|E4.1.1.15, gadB, gadA, GAD|http://www.genome.jp/dbget-bin/www_bget?ko:K01580
+seq132	K08548|NR2F2, TFCOUP2|http://www.genome.jp/dbget-bin/www_bget?ko:K08548
+seq133	K14296|NUP153|http://www.genome.jp/dbget-bin/www_bget?ko:K14296
+seq134	K01594|CSAD|http://www.genome.jp/dbget-bin/www_bget?ko:K01594
+seq135	K13152|ZMAT5|http://www.genome.jp/dbget-bin/www_bget?ko:K13152
+seq136	K09048|CREB3|http://www.genome.jp/dbget-bin/www_bget?ko:K09048
+seq137	K09228|KRAB|http://www.genome.jp/dbget-bin/www_bget?ko:K09228
+seq138	K12488|ASAP|http://www.genome.jp/dbget-bin/www_bget?ko:K12488
+seq139	K09048|CREB3|http://www.genome.jp/dbget-bin/www_bget?ko:K09048
+seq140	K10641|LRSAM1|http://www.genome.jp/dbget-bin/www_bget?ko:K10641
+seq141	K04392|RAC1|http://www.genome.jp/dbget-bin/www_bget?ko:K04392
+seq142	K05312|CHRNN|http://www.genome.jp/dbget-bin/www_bget?ko:K05312
+seq143	None
+seq144	None
+seq145	K04392|RAC1|http://www.genome.jp/dbget-bin/www_bget?ko:K04392
+seq146	K01183|E3.2.1.14|http://www.genome.jp/dbget-bin/www_bget?ko:K01183
+seq147	K04812|CHRNB1|http://www.genome.jp/dbget-bin/www_bget?ko:K04812
+seq148	K06051|DLL|http://www.genome.jp/dbget-bin/www_bget?ko:K06051
+seq149	K04392|RAC1|http://www.genome.jp/dbget-bin/www_bget?ko:K04392
+seq150	K10420|DYNLT|http://www.genome.jp/dbget-bin/www_bget?ko:K10420
+seq151	None
+seq152	K03238|EIF2S2|http://www.genome.jp/dbget-bin/www_bget?ko:K03238
+seq153	None
+seq154	None
+seq155	None
+seq156	K14859|SSF1_2|http://www.genome.jp/dbget-bin/www_bget?ko:K14859
+seq157	K02165|DKK|http://www.genome.jp/dbget-bin/www_bget?ko:K02165
+seq158	K18932|ZDHHC|http://www.genome.jp/dbget-bin/www_bget?ko:K18932
+seq159	None
+seq160	None
+seq161	K03164|TOP2|http://www.genome.jp/dbget-bin/www_bget?ko:K03164
+seq162	None
+seq163	K10143|RFWD2, COP1|http://www.genome.jp/dbget-bin/www_bget?ko:K10143
+seq164	K05544|DUS3|http://www.genome.jp/dbget-bin/www_bget?ko:K05544
+seq165	None
+seq166	K09330|PHOX2, PMX2|http://www.genome.jp/dbget-bin/www_bget?ko:K09330
+seq167	K09392|TFDP2|http://www.genome.jp/dbget-bin/www_bget?ko:K09392
+seq168	K18932|ZDHHC|http://www.genome.jp/dbget-bin/www_bget?ko:K18932
+seq169	K18754|LIN28|http://www.genome.jp/dbget-bin/www_bget?ko:K18754
+seq170	None
+seq171	None
+seq172	None
+seq173	K11862|ZRANB1, TRABID|http://www.genome.jp/dbget-bin/www_bget?ko:K11862
+seq174	K12478|EEA1|http://www.genome.jp/dbget-bin/www_bget?ko:K12478
+seq175	K04459|DUSP, MKP|http://www.genome.jp/dbget-bin/www_bget?ko:K04459
+seq176	K15687|MKRN|http://www.genome.jp/dbget-bin/www_bget?ko:K15687
+seq177	None
+seq178	K06054|HES1|http://www.genome.jp/dbget-bin/www_bget?ko:K06054
+seq179	K14819|DUSP12, YVH1|http://www.genome.jp/dbget-bin/www_bget?ko:K14819
+seq180	None
+seq181	None
+seq182	None
+seq183	K06054|HES1|http://www.genome.jp/dbget-bin/www_bget?ko:K06054
+seq184	K09409|FOXP|http://www.genome.jp/dbget-bin/www_bget?ko:K09409
+seq185	K13095|SF1|http://www.genome.jp/dbget-bin/www_bget?ko:K13095
+seq186	None
+seq187	None
+seq188	K08561|NR6A1, GCNF|http://www.genome.jp/dbget-bin/www_bget?ko:K08561
+seq189	None
+seq190	K03320|amt, AMT, MEP|http://www.genome.jp/dbget-bin/www_bget?ko:K03320
+seq191	K06620|E2F3|http://www.genome.jp/dbget-bin/www_bget?ko:K06620
+seq192	K05459|IGF1|http://www.genome.jp/dbget-bin/www_bget?ko:K05459
+seq193	K10630|RBCK1, HOIL1|http://www.genome.jp/dbget-bin/www_bget?ko:K10630
+seq194	None
+seq195	K09236|TSHZ|http://www.genome.jp/dbget-bin/www_bget?ko:K09236
+seq196	K04682|E2F4_5|http://www.genome.jp/dbget-bin/www_bget?ko:K04682
+seq197	K09435|ERG|http://www.genome.jp/dbget-bin/www_bget?ko:K09435
+seq198	K12819|SLU7|http://www.genome.jp/dbget-bin/www_bget?ko:K12819
+seq199	K03320|amt, AMT, MEP|http://www.genome.jp/dbget-bin/www_bget?ko:K03320
+seq200	None
+seq201	K09428|ELF1_2_4|http://www.genome.jp/dbget-bin/www_bget?ko:K09428
+seq202	K15613|MEIS1|http://www.genome.jp/dbget-bin/www_bget?ko:K15613
+seq203	K09848|TRAF4|http://www.genome.jp/dbget-bin/www_bget?ko:K09848
+seq204	None
+seq205	K11834|USP44_49|http://www.genome.jp/dbget-bin/www_bget?ko:K11834
+seq206	None
+seq207	K04501|SMAD4|http://www.genome.jp/dbget-bin/www_bget?ko:K04501
+seq208	K10276|FBXL10_11|http://www.genome.jp/dbget-bin/www_bget?ko:K10276
+seq209	K00501|TH|http://www.genome.jp/dbget-bin/www_bget?ko:K00501
+seq210	K09380|ZFHX4|http://www.genome.jp/dbget-bin/www_bget?ko:K09380
+seq211	K05111|EPHB2, ERK, DRT|http://www.genome.jp/dbget-bin/www_bget?ko:K05111
+seq212	None
+seq213	K11971|RNF14, ARA54|http://www.genome.jp/dbget-bin/www_bget?ko:K11971
+seq214	K04223|TACR2|http://www.genome.jp/dbget-bin/www_bget?ko:K04223
+seq215	None
+seq216	K05108|EPHA7, EHK3, HEK11|http://www.genome.jp/dbget-bin/www_bget?ko:K05108
+seq217	None
+seq218	K13279|PRDX1|http://www.genome.jp/dbget-bin/www_bget?ko:K13279
+seq219	K04926|KCNQ1|http://www.genome.jp/dbget-bin/www_bget?ko:K04926
+seq220	K09228|KRAB|http://www.genome.jp/dbget-bin/www_bget?ko:K09228
+seq221	K05462|EFNA|http://www.genome.jp/dbget-bin/www_bget?ko:K05462
+seq222	K04459|DUSP, MKP|http://www.genome.jp/dbget-bin/www_bget?ko:K04459
+seq223	None
+seq224	K04513|RHOA|http://www.genome.jp/dbget-bin/www_bget?ko:K04513
+seq225	K14400|PCF11|http://www.genome.jp/dbget-bin/www_bget?ko:K14400
+seq226	K05462|EFNA|http://www.genome.jp/dbget-bin/www_bget?ko:K05462
+seq227	K15603|TCF4_12|http://www.genome.jp/dbget-bin/www_bget?ko:K15603
+seq228	None
+seq229	K08360|CYB561|http://www.genome.jp/dbget-bin/www_bget?ko:K08360
+seq230	K17779|TIM10B|http://www.genome.jp/dbget-bin/www_bget?ko:K17779
+seq231	K05463|EFNB|http://www.genome.jp/dbget-bin/www_bget?ko:K05463
+seq232	K05462|EFNA|http://www.genome.jp/dbget-bin/www_bget?ko:K05462
+seq233	K09194|SP4|http://www.genome.jp/dbget-bin/www_bget?ko:K09194
+seq234	None
+seq235	K09434|ERF|http://www.genome.jp/dbget-bin/www_bget?ko:K09434
+seq236	K02678|ETS, pnt|http://www.genome.jp/dbget-bin/www_bget?ko:K02678
+seq237	None
+seq238	K03019|RPC11, POLR3K|http://www.genome.jp/dbget-bin/www_bget?ko:K03019
+seq239	K04371|MAPK1_3|http://www.genome.jp/dbget-bin/www_bget?ko:K04371
+seq240	None
+seq241	None
+
+--------------------
+
+////
+Query:              	seq1
+////
+Query:              	seq2
+////
+Query:              	seq3
+KO:                 	K03283	HSPA1_8
+Pathway:            	Toxoplasmosis	KEGG PATHWAY	ko05145
+                    	Legionellosis	KEGG PATHWAY	ko05134
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Estrogen signaling pathway	KEGG PATHWAY	ko04915
+                    	Protein processing in endoplasmic reticulum	KEGG PATHWAY	ko04141
+                    	Spliceosome	KEGG PATHWAY	ko03040
+                    	Measles	KEGG PATHWAY	ko05162
+                    	Influenza A	KEGG PATHWAY	ko05164
+                    	Antigen processing and presentation	KEGG PATHWAY	ko04612
+                    	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	Endocytosis	KEGG PATHWAY	ko04144
+////
+Query:              	seq4
+KO:                 	K10843	ERCC3, XPB
+Pathway:            	Basal transcription factors	KEGG PATHWAY	ko03022
+                    	Nucleotide excision repair	KEGG PATHWAY	ko03420
+////
+Query:              	seq5
+KO:                 	K12178	COPS4, CSN4
+////
+Query:              	seq6
+KO:                 	K11274	WDHD1, CTF4
+////
+Query:              	seq7
+////
+Query:              	seq8
+KO:                 	K08957	CSNK1A
+Pathway:            	Hedgehog signaling pathway	KEGG PATHWAY	ko04340
+                    	Wnt signaling pathway	KEGG PATHWAY	ko04310
+////
+Query:              	seq9
+KO:                 	K06267	HMMR, RHAMM
+Pathway:            	ECM-receptor interaction	KEGG PATHWAY	ko04512
+////
+Query:              	seq10
+KO:                 	K10394	KIF3_17
+////
+Query:              	seq11
+////
+Query:              	seq12
+KO:                 	K10400	KIF15
+////
+Query:              	seq13
+KO:                 	K00432	E1.11.1.9
+Pathway:            	Glutathione metabolism	KEGG PATHWAY	ko00480
+                    	Thyroid hormone synthesis	KEGG PATHWAY	ko04918
+                    	Arachidonic acid metabolism	KEGG PATHWAY	ko00590
+////
+Query:              	seq14
+KO:                 	K11493	RCC1
+////
+Query:              	seq15
+////
+Query:              	seq16
+KO:                 	K04455	HSPB1
+Pathway:            	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	Amoebiasis	KEGG PATHWAY	ko05146
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	VEGF signaling pathway	KEGG PATHWAY	ko04370
+////
+Query:              	seq17
+KO:                 	K17814	CYP1E
+////
+Query:              	seq18
+KO:                 	K01830	E5.3.99.2, PTGDS
+Pathway:            	Arachidonic acid metabolism	KEGG PATHWAY	ko00590
+////
+Query:              	seq19
+////
+Query:              	seq20
+////
+Query:              	seq21
+KO:                 	K01830	E5.3.99.2, PTGDS
+Pathway:            	Arachidonic acid metabolism	KEGG PATHWAY	ko00590
+////
+Query:              	seq22
+KO:                 	K15261	PARP10_14_15
+////
+Query:              	seq23
+KO:                 	K09199	SP9
+////
+Query:              	seq24
+////
+Query:              	seq25
+////
+Query:              	seq26
+////
+Query:              	seq27
+////
+Query:              	seq28
+KO:                 	K09395	FOXB
+////
+Query:              	seq29
+KO:                 	K00542	GAMT
+Pathway:            	Glycine, serine and threonine metabolism	KEGG PATHWAY	ko00260
+                    	Arginine and proline metabolism	KEGG PATHWAY	ko00330
+////
+Query:              	seq30
+KO:                 	K00542	GAMT
+Pathway:            	Glycine, serine and threonine metabolism	KEGG PATHWAY	ko00260
+                    	Arginine and proline metabolism	KEGG PATHWAY	ko00330
+////
+Query:              	seq31
+KO:                 	K00542	GAMT
+Pathway:            	Glycine, serine and threonine metabolism	KEGG PATHWAY	ko00260
+                    	Arginine and proline metabolism	KEGG PATHWAY	ko00330
+////
+Query:              	seq32
+KO:                 	K07424	CYP3A
+Pathway:            	Chemical carcinogenesis	KEGG PATHWAY	ko05204
+                    	Retinol metabolism	KEGG PATHWAY	ko00830
+                    	Linoleic acid metabolism	KEGG PATHWAY	ko00591
+                    	Steroid hormone biosynthesis	KEGG PATHWAY	ko00140
+////
+Query:              	seq33
+KO:                 	K07424	CYP3A
+Pathway:            	Chemical carcinogenesis	KEGG PATHWAY	ko05204
+                    	Retinol metabolism	KEGG PATHWAY	ko00830
+                    	Linoleic acid metabolism	KEGG PATHWAY	ko00591
+                    	Steroid hormone biosynthesis	KEGG PATHWAY	ko00140
+////
+Query:              	seq34
+KO:                 	K08035	FOXA2, HNF3B
+Pathway:            	Maturity onset diabetes of the young	KEGG PATHWAY	ko04950
+////
+Query:              	seq35
+////
+Query:              	seq36
+KO:                 	K06620	E2F3
+Pathway:            	Glioma	KEGG PATHWAY	ko05214
+                    	Bladder cancer	KEGG PATHWAY	ko05219
+                    	Melanoma	KEGG PATHWAY	ko05218
+                    	Pancreatic cancer	KEGG PATHWAY	ko05212
+                    	Chronic myeloid leukemia	KEGG PATHWAY	ko05220
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+                    	Cell cycle	KEGG PATHWAY	ko04110
+                    	Prostate cancer	KEGG PATHWAY	ko05215
+                    	HTLV-I infection	KEGG PATHWAY	ko05166
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Non-small cell lung cancer	KEGG PATHWAY	ko05223
+                    	Hepatitis B	KEGG PATHWAY	ko05161
+                    	Small cell lung cancer	KEGG PATHWAY	ko05222
+////
+Query:              	seq37
+////
+Query:              	seq38
+////
+Query:              	seq39
+KO:                 	K08035	FOXA2, HNF3B
+Pathway:            	Maturity onset diabetes of the young	KEGG PATHWAY	ko04950
+////
+Query:              	seq40
+////
+Query:              	seq41
+KO:                 	K00933	E2.7.3.2
+Pathway:            	Arginine and proline metabolism	KEGG PATHWAY	ko00330
+////
+Query:              	seq42
+////
+Query:              	seq43
+KO:                 	K11254	H4
+Pathway:            	Alcoholism	KEGG PATHWAY	ko05034
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	Systemic lupus erythematosus	KEGG PATHWAY	ko05322
+////
+Query:              	seq44
+KO:                 	K04500	SMAD2_3
+Pathway:            	Endocytosis	KEGG PATHWAY	ko04144
+                    	HTLV-I infection	KEGG PATHWAY	ko05166
+                    	Adherens junction	KEGG PATHWAY	ko04520
+                    	Pancreatic cancer	KEGG PATHWAY	ko05212
+                    	Inflammatory bowel disease (IBD)	KEGG PATHWAY	ko05321
+                    	Cell cycle	KEGG PATHWAY	ko04110
+                    	Chagas disease (American trypanosomiasis)	KEGG PATHWAY	ko05142
+                    	Hippo signaling pathway	KEGG PATHWAY	ko04390
+                    	TGF-beta signaling pathway	KEGG PATHWAY	ko04350
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	FoxO signaling pathway	KEGG PATHWAY	ko04068
+                    	Colorectal cancer	KEGG PATHWAY	ko05210
+                    	Signaling pathways regulating pluripotency of stem cells	KEGG PATHWAY	ko04550
+////
+Query:              	seq45
+////
+Query:              	seq46
+KO:                 	K07611	LMNB
+////
+Query:              	seq47
+KO:                 	K07606	VIM
+Pathway:            	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+////
+Query:              	seq48
+KO:                 	K05640	GFAP
+////
+Query:              	seq49
+KO:                 	K09643	TMPRSS13, TMPRSS11
+Pathway:            	Influenza A	KEGG PATHWAY	ko05164
+////
+Query:              	seq50
+////
+Query:              	seq51
+////
+Query:              	seq52
+KO:                 	K06530	CD109
+////
+Query:              	seq53
+KO:                 	K09064	MYOD1, MYF3
+////
+Query:              	seq54
+////
+Query:              	seq55
+////
+Query:              	seq56
+////
+Query:              	seq57
+////
+Query:              	seq58
+////
+Query:              	seq59
+KO:                 	K04194	CCKAR
+Pathway:            	Neuroactive ligand-receptor interaction	KEGG PATHWAY	ko04080
+                    	Calcium signaling pathway	KEGG PATHWAY	ko04020
+                    	Insulin secretion	KEGG PATHWAY	ko04911
+                    	Pancreatic secretion	KEGG PATHWAY	ko04972
+////
+Query:              	seq60
+KO:                 	K11126	TERT, EST2
+Pathway:            	HTLV-I infection	KEGG PATHWAY	ko05166
+////
+Query:              	seq61
+////
+Query:              	seq62
+KO:                 	K09064	MYOD1, MYF3
+////
+Query:              	seq63
+KO:                 	K12044	TNNI3
+Pathway:            	Dilated cardiomyopathy	KEGG PATHWAY	ko05414
+                    	cAMP signaling pathway	KEGG PATHWAY	ko04024
+                    	Hypertrophic cardiomyopathy (HCM)	KEGG PATHWAY	ko05410
+                    	Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	ko04261
+                    	Cardiac muscle contraction	KEGG PATHWAY	ko04260
+////
+Query:              	seq64
+////
+Query:              	seq65
+////
+Query:              	seq66
+KO:                 	K04280	GNRHR
+Pathway:            	Neuroactive ligand-receptor interaction	KEGG PATHWAY	ko04080
+                    	GnRH signaling pathway	KEGG PATHWAY	ko04912
+////
+Query:              	seq67
+KO:                 	K09218	SNAIN
+////
+Query:              	seq68
+KO:                 	K07606	VIM
+Pathway:            	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+////
+Query:              	seq69
+////
+Query:              	seq70
+////
+Query:              	seq71
+////
+Query:              	seq72
+KO:                 	K17778	TIM10
+////
+Query:              	seq73
+KO:                 	K07606	VIM
+Pathway:            	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+////
+Query:              	seq74
+KO:                 	K09624	PRSS12
+////
+Query:              	seq75
+KO:                 	K09631	HGFAC
+////
+Query:              	seq76
+KO:                 	K17089	ANXA3
+////
+Query:              	seq77
+KO:                 	K04892	KCND2
+Pathway:            	Serotonergic synapse	KEGG PATHWAY	ko04726
+////
+Query:              	seq78
+////
+Query:              	seq79
+////
+Query:              	seq80
+////
+Query:              	seq81
+KO:                 	K09097	ARNT
+Pathway:            	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Renal cell carcinoma	KEGG PATHWAY	ko05211
+                    	HIF-1 signaling pathway	KEGG PATHWAY	ko04066
+                    	Chemical carcinogenesis	KEGG PATHWAY	ko05204
+////
+Query:              	seq82
+KO:                 	K05723	FGD4
+////
+Query:              	seq83
+KO:                 	K04358	FGF
+Pathway:            	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Melanoma	KEGG PATHWAY	ko05218
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+                    	Regulation of actin cytoskeleton	KEGG PATHWAY	ko04810
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+////
+Query:              	seq84
+KO:                 	K09067	ASCL
+////
+Query:              	seq85
+KO:                 	K14031	NR2CN
+////
+Query:              	seq86
+KO:                 	K04280	GNRHR
+Pathway:            	Neuroactive ligand-receptor interaction	KEGG PATHWAY	ko04080
+                    	GnRH signaling pathway	KEGG PATHWAY	ko04912
+////
+Query:              	seq87
+KO:                 	K09045	ATF7, ATFA
+////
+Query:              	seq88
+////
+Query:              	seq89
+KO:                 	K09032	ATF3, LRF1
+Pathway:            	HTLV-I infection	KEGG PATHWAY	ko05166
+////
+Query:              	seq90
+KO:                 	K09370	ISL1
+Pathway:            	Signaling pathways regulating pluripotency of stem cells	KEGG PATHWAY	ko04550
+////
+Query:              	seq91
+KO:                 	K04374	ATF4, CREB2
+Pathway:            	Neurotrophin signaling pathway	KEGG PATHWAY	ko04722
+                    	TNF signaling pathway	KEGG PATHWAY	ko04668
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	Amphetamine addiction	KEGG PATHWAY	ko05031
+                    	Dopaminergic synapse	KEGG PATHWAY	ko04728
+                    	Protein processing in endoplasmic reticulum	KEGG PATHWAY	ko04141
+                    	Alcoholism	KEGG PATHWAY	ko05034
+                    	Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	ko04261
+                    	Prostate cancer	KEGG PATHWAY	ko05215
+                    	Insulin secretion	KEGG PATHWAY	ko04911
+                    	HTLV-I infection	KEGG PATHWAY	ko05166
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Thyroid hormone synthesis	KEGG PATHWAY	ko04918
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Cholinergic synapse	KEGG PATHWAY	ko04725
+                    	Non-alcoholic fatty liver disease (NAFLD)	KEGG PATHWAY	ko04932
+                    	GnRH signaling pathway	KEGG PATHWAY	ko04912
+                    	cGMP-PKG signaling pathway	KEGG PATHWAY	ko04022
+                    	Estrogen signaling pathway	KEGG PATHWAY	ko04915
+                    	Cocaine addiction	KEGG PATHWAY	ko05030
+                    	Long-term potentiation	KEGG PATHWAY	ko04720
+                    	Hepatitis B	KEGG PATHWAY	ko05161
+////
+Query:              	seq92
+////
+Query:              	seq93
+KO:                 	K02157	AXIN1
+Pathway:            	Basal cell carcinoma	KEGG PATHWAY	ko05217
+                    	Endometrial cancer	KEGG PATHWAY	ko05213
+                    	Hippo signaling pathway	KEGG PATHWAY	ko04390
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Wnt signaling pathway	KEGG PATHWAY	ko04310
+                    	Colorectal cancer	KEGG PATHWAY	ko05210
+                    	Signaling pathways regulating pluripotency of stem cells	KEGG PATHWAY	ko04550
+////
+Query:              	seq94
+KO:                 	K12872	RBM22, SLT11
+Pathway:            	Spliceosome	KEGG PATHWAY	ko03040
+////
+Query:              	seq95
+KO:                 	K09405	FOXL
+////
+Query:              	seq96
+KO:                 	K06580	SLC42A, RHAG, RHBG, RHCG
+////
+Query:              	seq97
+KO:                 	K15618	BCL6
+Pathway:            	FoxO signaling pathway	KEGG PATHWAY	ko04068
+                    	Transcriptional misregulation in cancer	KEGG PATHWAY	ko05202
+////
+Query:              	seq98
+KO:                 	K10646	TRAF7, RFWD1
+////
+Query:              	seq99
+////
+Query:              	seq100
+KO:                 	K04662	BMP2_4
+Pathway:            	Cytokine-cytokine receptor interaction	KEGG PATHWAY	ko04060
+                    	Basal cell carcinoma	KEGG PATHWAY	ko05217
+                    	Hedgehog signaling pathway	KEGG PATHWAY	ko04340
+                    	Hippo signaling pathway	KEGG PATHWAY	ko04390
+                    	TGF-beta signaling pathway	KEGG PATHWAY	ko04350
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Signaling pathways regulating pluripotency of stem cells	KEGG PATHWAY	ko04550
+////
+Query:              	seq101
+KO:                 	K13056	C3H-4
+Pathway:            	Oocyte meiosis	KEGG PATHWAY	ko04114
+////
+Query:              	seq102
+KO:                 	K16621	BMP7
+Pathway:            	Cytokine-cytokine receptor interaction	KEGG PATHWAY	ko04060
+                    	Hippo signaling pathway	KEGG PATHWAY	ko04390
+                    	TGF-beta signaling pathway	KEGG PATHWAY	ko04350
+////
+Query:              	seq103
+KO:                 	K09228	KRAB
+////
+Query:              	seq104
+KO:                 	K13103	TFIP11
+////
+Query:              	seq105
+KO:                 	K07967	B4GALT2
+Pathway:            	Glycosaminoglycan biosynthesis - keratan sulfate	KEGG PATHWAY	ko00533
+                    	Other types of O-glycan biosynthesis	KEGG PATHWAY	ko00514
+                    	Galactose metabolism	KEGG PATHWAY	ko00052
+                    	N-Glycan biosynthesis	KEGG PATHWAY	ko00510
+                    	Various types of N-glycan biosynthesis	KEGG PATHWAY	ko00513
+                    	Glycosphingolipid biosynthesis - lacto and neolacto series	KEGG PATHWAY	ko00601
+////
+Query:              	seq106
+KO:                 	K10049	CEBPG
+Pathway:            	Tuberculosis	KEGG PATHWAY	ko05152
+////
+Query:              	seq107
+KO:                 	K11307	MYST2, HBO1, KAT7
+////
+Query:              	seq108
+////
+Query:              	seq109
+////
+Query:              	seq110
+////
+Query:              	seq111
+////
+Query:              	seq112
+KO:                 	K14832	MAK21, NOC1, CEBPZ
+////
+Query:              	seq113
+////
+Query:              	seq114
+KO:                 	K04462	EVI1
+Pathway:            	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Chronic myeloid leukemia	KEGG PATHWAY	ko05220
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+////
+Query:              	seq115
+KO:                 	K06066	CIR
+Pathway:            	Notch signaling pathway	KEGG PATHWAY	ko04330
+////
+Query:              	seq116
+KO:                 	K09232	GLIS1_3
+////
+Query:              	seq117
+////
+Query:              	seq118
+KO:                 	K09312	CDX
+////
+Query:              	seq119
+KO:                 	K08883	TRIM33, TIF1G
+////
+Query:              	seq120
+////
+Query:              	seq121
+KO:                 	K12581	CNOT7_8, CAF1, POP2
+Pathway:            	RNA degradation	KEGG PATHWAY	ko03018
+////
+Query:              	seq122
+KO:                 	K12597	AIR1_2
+Pathway:            	RNA degradation	KEGG PATHWAY	ko03018
+////
+Query:              	seq123
+KO:                 	K14636	SLC18A3, VACHT
+Pathway:            	Synaptic vesicle cycle	KEGG PATHWAY	ko04721
+                    	Cholinergic synapse	KEGG PATHWAY	ko04725
+////
+Query:              	seq124
+////
+Query:              	seq125
+KO:                 	K09103	EBF, COE
+////
+Query:              	seq126
+KO:                 	K16060	BIRC2_3
+Pathway:            	Toxoplasmosis	KEGG PATHWAY	ko05145
+                    	NOD-like receptor signaling pathway	KEGG PATHWAY	ko04621
+                    	Apoptosis	KEGG PATHWAY	ko04210
+                    	TNF signaling pathway	KEGG PATHWAY	ko04668
+                    	Focal adhesion	KEGG PATHWAY	ko04510
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Ubiquitin mediated proteolysis	KEGG PATHWAY	ko04120
+                    	NF-kappa B signaling pathway	KEGG PATHWAY	ko04064
+                    	Small cell lung cancer	KEGG PATHWAY	ko05222
+////
+Query:              	seq127
+KO:                 	K11294	NCL, NSR1
+Pathway:            	Pathogenic Escherichia coli infection	KEGG PATHWAY	ko05130
+////
+Query:              	seq128
+////
+Query:              	seq129
+////
+Query:              	seq130
+KO:                 	K11847	USP19
+////
+Query:              	seq131
+KO:                 	K01580	E4.1.1.15, gadB, gadA, GAD
+Pathway:            	beta-Alanine metabolism	KEGG PATHWAY	ko00410
+                    	Taurine and hypotaurine metabolism	KEGG PATHWAY	ko00430
+                    	GABAergic synapse	KEGG PATHWAY	ko04727
+                    	Type I diabetes mellitus	KEGG PATHWAY	ko04940
+                    	Butanoate metabolism	KEGG PATHWAY	ko00650
+                    	Alanine, aspartate and glutamate metabolism	KEGG PATHWAY	ko00250
+////
+Query:              	seq132
+KO:                 	K08548	NR2F2, TFCOUP2
+////
+Query:              	seq133
+KO:                 	K14296	NUP153
+Pathway:            	RNA transport	KEGG PATHWAY	ko03013
+////
+Query:              	seq134
+KO:                 	K01594	CSAD
+Pathway:            	Taurine and hypotaurine metabolism	KEGG PATHWAY	ko00430
+////
+Query:              	seq135
+KO:                 	K13152	ZMAT5
+////
+Query:              	seq136
+KO:                 	K09048	CREB3
+Pathway:            	cAMP signaling pathway	KEGG PATHWAY	ko04024
+                    	Melanogenesis	KEGG PATHWAY	ko04916
+                    	Cholinergic synapse	KEGG PATHWAY	ko04725
+                    	Huntington's disease	KEGG PATHWAY	ko05016
+                    	Dopaminergic synapse	KEGG PATHWAY	ko04728
+                    	TNF signaling pathway	KEGG PATHWAY	ko04668
+                    	Cocaine addiction	KEGG PATHWAY	ko05030
+                    	Alcoholism	KEGG PATHWAY	ko05034
+                    	Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	ko04261
+                    	Prostate cancer	KEGG PATHWAY	ko05215
+                    	Insulin secretion	KEGG PATHWAY	ko04911
+                    	AMPK signaling pathway	KEGG PATHWAY	ko04152
+                    	Estrogen signaling pathway	KEGG PATHWAY	ko04915
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Thyroid hormone synthesis	KEGG PATHWAY	ko04918
+                    	Vasopressin-regulated water reabsorption	KEGG PATHWAY	ko04962
+                    	cGMP-PKG signaling pathway	KEGG PATHWAY	ko04022
+                    	Hepatitis B	KEGG PATHWAY	ko05161
+                    	Amphetamine addiction	KEGG PATHWAY	ko05031
+////
+Query:              	seq137
+KO:                 	K09228	KRAB
+////
+Query:              	seq138
+KO:                 	K12488	ASAP
+Pathway:            	Fc gamma R-mediated phagocytosis	KEGG PATHWAY	ko04666
+                    	Endocytosis	KEGG PATHWAY	ko04144
+////
+Query:              	seq139
+KO:                 	K09048	CREB3
+Pathway:            	cAMP signaling pathway	KEGG PATHWAY	ko04024
+                    	Melanogenesis	KEGG PATHWAY	ko04916
+                    	Cholinergic synapse	KEGG PATHWAY	ko04725
+                    	Huntington's disease	KEGG PATHWAY	ko05016
+                    	Dopaminergic synapse	KEGG PATHWAY	ko04728
+                    	TNF signaling pathway	KEGG PATHWAY	ko04668
+                    	Cocaine addiction	KEGG PATHWAY	ko05030
+                    	Alcoholism	KEGG PATHWAY	ko05034
+                    	Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	ko04261
+                    	Prostate cancer	KEGG PATHWAY	ko05215
+                    	Insulin secretion	KEGG PATHWAY	ko04911
+                    	AMPK signaling pathway	KEGG PATHWAY	ko04152
+                    	Estrogen signaling pathway	KEGG PATHWAY	ko04915
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Thyroid hormone synthesis	KEGG PATHWAY	ko04918
+                    	Vasopressin-regulated water reabsorption	KEGG PATHWAY	ko04962
+                    	cGMP-PKG signaling pathway	KEGG PATHWAY	ko04022
+                    	Hepatitis B	KEGG PATHWAY	ko05161
+                    	Amphetamine addiction	KEGG PATHWAY	ko05031
+////
+Query:              	seq140
+KO:                 	K10641	LRSAM1
+////
+Query:              	seq141
+KO:                 	K04392	RAC1
+Pathway:            	Neurotrophin signaling pathway	KEGG PATHWAY	ko04722
+                    	Phagosome	KEGG PATHWAY	ko04145
+                    	Adherens junction	KEGG PATHWAY	ko04520
+                    	Leukocyte transendothelial migration	KEGG PATHWAY	ko04670
+                    	Axon guidance	KEGG PATHWAY	ko04360
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+                    	Shigellosis	KEGG PATHWAY	ko05131
+                    	Sphingolipid signaling pathway	KEGG PATHWAY	ko04071
+                    	Colorectal cancer	KEGG PATHWAY	ko05210
+                    	Natural killer cell mediated cytotoxicity	KEGG PATHWAY	ko04650
+                    	Choline metabolism in cancer	KEGG PATHWAY	ko05231
+                    	Viral myocarditis	KEGG PATHWAY	ko05416
+                    	Osteoclast differentiation	KEGG PATHWAY	ko04380
+                    	Renal cell carcinoma	KEGG PATHWAY	ko05211
+                    	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Focal adhesion	KEGG PATHWAY	ko04510
+                    	Wnt signaling pathway	KEGG PATHWAY	ko04310
+                    	cAMP signaling pathway	KEGG PATHWAY	ko04024
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Non-alcoholic fatty liver disease (NAFLD)	KEGG PATHWAY	ko04932
+                    	Salmonella infection	KEGG PATHWAY	ko05132
+                    	Toll-like receptor signaling pathway	KEGG PATHWAY	ko04620
+                    	Regulation of actin cytoskeleton	KEGG PATHWAY	ko04810
+                    	VEGF signaling pathway	KEGG PATHWAY	ko04370
+                    	Fc gamma R-mediated phagocytosis	KEGG PATHWAY	ko04666
+                    	Chemokine signaling pathway	KEGG PATHWAY	ko04062
+                    	Amyotrophic lateral sclerosis (ALS)	KEGG PATHWAY	ko05014
+                    	Pancreatic secretion	KEGG PATHWAY	ko04972
+                    	Pancreatic cancer	KEGG PATHWAY	ko05212
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	Epithelial cell signaling in Helicobacter pylori infection	KEGG PATHWAY	ko05120
+                    	B cell receptor signaling pathway	KEGG PATHWAY	ko04662
+                    	Bacterial invasion of epithelial cells	KEGG PATHWAY	ko05100
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Fc epsilon RI signaling pathway	KEGG PATHWAY	ko04664
+                    	Proteoglycans in cancer	KEGG PATHWAY	ko05205
+////
+Query:              	seq142
+KO:                 	K05312	CHRNN
+////
+Query:              	seq143
+////
+Query:              	seq144
+////
+Query:              	seq145
+KO:                 	K04392	RAC1
+Pathway:            	Neurotrophin signaling pathway	KEGG PATHWAY	ko04722
+                    	Phagosome	KEGG PATHWAY	ko04145
+                    	Adherens junction	KEGG PATHWAY	ko04520
+                    	Leukocyte transendothelial migration	KEGG PATHWAY	ko04670
+                    	Axon guidance	KEGG PATHWAY	ko04360
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+                    	Shigellosis	KEGG PATHWAY	ko05131
+                    	Sphingolipid signaling pathway	KEGG PATHWAY	ko04071
+                    	Colorectal cancer	KEGG PATHWAY	ko05210
+                    	Natural killer cell mediated cytotoxicity	KEGG PATHWAY	ko04650
+                    	Choline metabolism in cancer	KEGG PATHWAY	ko05231
+                    	Viral myocarditis	KEGG PATHWAY	ko05416
+                    	Osteoclast differentiation	KEGG PATHWAY	ko04380
+                    	Renal cell carcinoma	KEGG PATHWAY	ko05211
+                    	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Focal adhesion	KEGG PATHWAY	ko04510
+                    	Wnt signaling pathway	KEGG PATHWAY	ko04310
+                    	cAMP signaling pathway	KEGG PATHWAY	ko04024
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Non-alcoholic fatty liver disease (NAFLD)	KEGG PATHWAY	ko04932
+                    	Salmonella infection	KEGG PATHWAY	ko05132
+                    	Toll-like receptor signaling pathway	KEGG PATHWAY	ko04620
+                    	Regulation of actin cytoskeleton	KEGG PATHWAY	ko04810
+                    	VEGF signaling pathway	KEGG PATHWAY	ko04370
+                    	Fc gamma R-mediated phagocytosis	KEGG PATHWAY	ko04666
+                    	Chemokine signaling pathway	KEGG PATHWAY	ko04062
+                    	Amyotrophic lateral sclerosis (ALS)	KEGG PATHWAY	ko05014
+                    	Pancreatic secretion	KEGG PATHWAY	ko04972
+                    	Pancreatic cancer	KEGG PATHWAY	ko05212
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	Epithelial cell signaling in Helicobacter pylori infection	KEGG PATHWAY	ko05120
+                    	B cell receptor signaling pathway	KEGG PATHWAY	ko04662
+                    	Bacterial invasion of epithelial cells	KEGG PATHWAY	ko05100
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Fc epsilon RI signaling pathway	KEGG PATHWAY	ko04664
+                    	Proteoglycans in cancer	KEGG PATHWAY	ko05205
+////
+Query:              	seq146
+KO:                 	K01183	E3.2.1.14
+Pathway:            	Amino sugar and nucleotide sugar metabolism	KEGG PATHWAY	ko00520
+////
+Query:              	seq147
+KO:                 	K04812	CHRNB1
+Pathway:            	Neuroactive ligand-receptor interaction	KEGG PATHWAY	ko04080
+////
+Query:              	seq148
+KO:                 	K06051	DLL
+Pathway:            	Notch signaling pathway	KEGG PATHWAY	ko04330
+////
+Query:              	seq149
+KO:                 	K04392	RAC1
+Pathway:            	Neurotrophin signaling pathway	KEGG PATHWAY	ko04722
+                    	Phagosome	KEGG PATHWAY	ko04145
+                    	Adherens junction	KEGG PATHWAY	ko04520
+                    	Leukocyte transendothelial migration	KEGG PATHWAY	ko04670
+                    	Axon guidance	KEGG PATHWAY	ko04360
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+                    	Shigellosis	KEGG PATHWAY	ko05131
+                    	Sphingolipid signaling pathway	KEGG PATHWAY	ko04071
+                    	Colorectal cancer	KEGG PATHWAY	ko05210
+                    	Natural killer cell mediated cytotoxicity	KEGG PATHWAY	ko04650
+                    	Choline metabolism in cancer	KEGG PATHWAY	ko05231
+                    	Viral myocarditis	KEGG PATHWAY	ko05416
+                    	Osteoclast differentiation	KEGG PATHWAY	ko04380
+                    	Renal cell carcinoma	KEGG PATHWAY	ko05211
+                    	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Focal adhesion	KEGG PATHWAY	ko04510
+                    	Wnt signaling pathway	KEGG PATHWAY	ko04310
+                    	cAMP signaling pathway	KEGG PATHWAY	ko04024
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Non-alcoholic fatty liver disease (NAFLD)	KEGG PATHWAY	ko04932
+                    	Salmonella infection	KEGG PATHWAY	ko05132
+                    	Toll-like receptor signaling pathway	KEGG PATHWAY	ko04620
+                    	Regulation of actin cytoskeleton	KEGG PATHWAY	ko04810
+                    	VEGF signaling pathway	KEGG PATHWAY	ko04370
+                    	Fc gamma R-mediated phagocytosis	KEGG PATHWAY	ko04666
+                    	Chemokine signaling pathway	KEGG PATHWAY	ko04062
+                    	Amyotrophic lateral sclerosis (ALS)	KEGG PATHWAY	ko05014
+                    	Pancreatic secretion	KEGG PATHWAY	ko04972
+                    	Pancreatic cancer	KEGG PATHWAY	ko05212
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	Epithelial cell signaling in Helicobacter pylori infection	KEGG PATHWAY	ko05120
+                    	B cell receptor signaling pathway	KEGG PATHWAY	ko04662
+                    	Bacterial invasion of epithelial cells	KEGG PATHWAY	ko05100
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Fc epsilon RI signaling pathway	KEGG PATHWAY	ko04664
+                    	Proteoglycans in cancer	KEGG PATHWAY	ko05205
+////
+Query:              	seq150
+KO:                 	K10420	DYNLT
+////
+Query:              	seq151
+////
+Query:              	seq152
+KO:                 	K03238	EIF2S2
+Pathway:            	RNA transport	KEGG PATHWAY	ko03013
+////
+Query:              	seq153
+////
+Query:              	seq154
+////
+Query:              	seq155
+////
+Query:              	seq156
+KO:                 	K14859	SSF1_2
+////
+Query:              	seq157
+KO:                 	K02165	DKK
+Pathway:            	Wnt signaling pathway	KEGG PATHWAY	ko04310
+////
+Query:              	seq158
+KO:                 	K18932	ZDHHC
+////
+Query:              	seq159
+////
+Query:              	seq160
+////
+Query:              	seq161
+KO:                 	K03164	TOP2
+////
+Query:              	seq162
+////
+Query:              	seq163
+KO:                 	K10143	RFWD2, COP1
+Pathway:            	Ubiquitin mediated proteolysis	KEGG PATHWAY	ko04120
+                    	p53 signaling pathway	KEGG PATHWAY	ko04115
+                    	Circadian rhythm - plant	KEGG PATHWAY	ko04712
+////
+Query:              	seq164
+KO:                 	K05544	DUS3
+////
+Query:              	seq165
+////
+Query:              	seq166
+KO:                 	K09330	PHOX2, PMX2
+////
+Query:              	seq167
+KO:                 	K09392	TFDP2
+Pathway:            	Cell cycle	KEGG PATHWAY	ko04110
+////
+Query:              	seq168
+KO:                 	K18932	ZDHHC
+////
+Query:              	seq169
+KO:                 	K18754	LIN28
+////
+Query:              	seq170
+////
+Query:              	seq171
+////
+Query:              	seq172
+////
+Query:              	seq173
+KO:                 	K11862	ZRANB1, TRABID
+////
+Query:              	seq174
+KO:                 	K12478	EEA1
+Pathway:            	Tuberculosis	KEGG PATHWAY	ko05152
+                    	Endocytosis	KEGG PATHWAY	ko04144
+                    	Phagosome	KEGG PATHWAY	ko04145
+////
+Query:              	seq175
+KO:                 	K04459	DUSP, MKP
+Pathway:            	MAPK signaling pathway	KEGG PATHWAY	ko04010
+////
+Query:              	seq176
+KO:                 	K15687	MKRN
+////
+Query:              	seq177
+////
+Query:              	seq178
+KO:                 	K06054	HES1
+Pathway:            	Maturity onset diabetes of the young	KEGG PATHWAY	ko04950
+                    	Fanconi anemia pathway	KEGG PATHWAY	ko03460
+                    	Notch signaling pathway	KEGG PATHWAY	ko04330
+////
+Query:              	seq179
+KO:                 	K14819	DUSP12, YVH1
+////
+Query:              	seq180
+////
+Query:              	seq181
+////
+Query:              	seq182
+////
+Query:              	seq183
+KO:                 	K06054	HES1
+Pathway:            	Maturity onset diabetes of the young	KEGG PATHWAY	ko04950
+                    	Fanconi anemia pathway	KEGG PATHWAY	ko03460
+                    	Notch signaling pathway	KEGG PATHWAY	ko04330
+////
+Query:              	seq184
+KO:                 	K09409	FOXP
+////
+Query:              	seq185
+KO:                 	K13095	SF1
+////
+Query:              	seq186
+////
+Query:              	seq187
+////
+Query:              	seq188
+KO:                 	K08561	NR6A1, GCNF
+////
+Query:              	seq189
+////
+Query:              	seq190
+KO:                 	K03320	amt, AMT, MEP
+////
+Query:              	seq191
+KO:                 	K06620	E2F3
+Pathway:            	Glioma	KEGG PATHWAY	ko05214
+                    	Bladder cancer	KEGG PATHWAY	ko05219
+                    	Melanoma	KEGG PATHWAY	ko05218
+                    	Pancreatic cancer	KEGG PATHWAY	ko05212
+                    	Chronic myeloid leukemia	KEGG PATHWAY	ko05220
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+                    	Cell cycle	KEGG PATHWAY	ko04110
+                    	Prostate cancer	KEGG PATHWAY	ko05215
+                    	HTLV-I infection	KEGG PATHWAY	ko05166
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Non-small cell lung cancer	KEGG PATHWAY	ko05223
+                    	Hepatitis B	KEGG PATHWAY	ko05161
+                    	Small cell lung cancer	KEGG PATHWAY	ko05222
+////
+Query:              	seq192
+KO:                 	K05459	IGF1
+Pathway:            	HIF-1 signaling pathway	KEGG PATHWAY	ko04066
+                    	p53 signaling pathway	KEGG PATHWAY	ko04115
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+                    	Long-term depression	KEGG PATHWAY	ko04730
+                    	Ovarian steroidogenesis	KEGG PATHWAY	ko04913
+                    	Signaling pathways regulating pluripotency of stem cells	KEGG PATHWAY	ko04550
+                    	Progesterone-mediated oocyte maturation	KEGG PATHWAY	ko04914
+                    	Aldosterone-regulated sodium reabsorption	KEGG PATHWAY	ko04960
+                    	Hypertrophic cardiomyopathy (HCM)	KEGG PATHWAY	ko05410
+                    	Prostate cancer	KEGG PATHWAY	ko05215
+                    	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Transcriptional misregulation in cancer	KEGG PATHWAY	ko05202
+                    	Focal adhesion	KEGG PATHWAY	ko04510
+                    	Oocyte meiosis	KEGG PATHWAY	ko04114
+                    	AMPK signaling pathway	KEGG PATHWAY	ko04152
+                    	FoxO signaling pathway	KEGG PATHWAY	ko04068
+                    	Glioma	KEGG PATHWAY	ko05214
+                    	Dilated cardiomyopathy	KEGG PATHWAY	ko05414
+                    	Melanoma	KEGG PATHWAY	ko05218
+                    	Inflammatory mediator regulation of TRP channels	KEGG PATHWAY	ko04750
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	mTOR signaling pathway	KEGG PATHWAY	ko04150
+                    	Proteoglycans in cancer	KEGG PATHWAY	ko05205
+////
+Query:              	seq193
+KO:                 	K10630	RBCK1, HOIL1
+////
+Query:              	seq194
+////
+Query:              	seq195
+KO:                 	K09236	TSHZ
+Pathway:            	Hippo signaling pathway - fly	KEGG PATHWAY	ko04391
+////
+Query:              	seq196
+KO:                 	K04682	E2F4_5
+Pathway:            	TGF-beta signaling pathway	KEGG PATHWAY	ko04350
+                    	Cell cycle	KEGG PATHWAY	ko04110
+////
+Query:              	seq197
+KO:                 	K09435	ERG
+Pathway:            	Transcriptional misregulation in cancer	KEGG PATHWAY	ko05202
+////
+Query:              	seq198
+KO:                 	K12819	SLU7
+Pathway:            	Spliceosome	KEGG PATHWAY	ko03040
+////
+Query:              	seq199
+KO:                 	K03320	amt, AMT, MEP
+////
+Query:              	seq200
+////
+Query:              	seq201
+KO:                 	K09428	ELF1_2_4
+////
+Query:              	seq202
+KO:                 	K15613	MEIS1
+Pathway:            	Transcriptional misregulation in cancer	KEGG PATHWAY	ko05202
+                    	Signaling pathways regulating pluripotency of stem cells	KEGG PATHWAY	ko04550
+////
+Query:              	seq203
+KO:                 	K09848	TRAF4
+Pathway:            	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Small cell lung cancer	KEGG PATHWAY	ko05222
+////
+Query:              	seq204
+////
+Query:              	seq205
+KO:                 	K11834	USP44_49
+////
+Query:              	seq206
+////
+Query:              	seq207
+KO:                 	K04501	SMAD4
+Pathway:            	HTLV-I infection	KEGG PATHWAY	ko05166
+                    	Adherens junction	KEGG PATHWAY	ko04520
+                    	Pancreatic cancer	KEGG PATHWAY	ko05212
+                    	Chronic myeloid leukemia	KEGG PATHWAY	ko05220
+                    	Cell cycle	KEGG PATHWAY	ko04110
+                    	Hippo signaling pathway	KEGG PATHWAY	ko04390
+                    	TGF-beta signaling pathway	KEGG PATHWAY	ko04350
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	FoxO signaling pathway	KEGG PATHWAY	ko04068
+                    	Signaling pathways regulating pluripotency of stem cells	KEGG PATHWAY	ko04550
+                    	Colorectal cancer	KEGG PATHWAY	ko05210
+                    	Hepatitis B	KEGG PATHWAY	ko05161
+                    	Wnt signaling pathway	KEGG PATHWAY	ko04310
+////
+Query:              	seq208
+KO:                 	K10276	FBXL10_11
+////
+Query:              	seq209
+KO:                 	K00501	TH
+Pathway:            	Parkinson's disease	KEGG PATHWAY	ko05012
+                    	Amphetamine addiction	KEGG PATHWAY	ko05031
+                    	Isoquinoline alkaloid biosynthesis	KEGG PATHWAY	ko00950
+                    	Tyrosine metabolism	KEGG PATHWAY	ko00350
+                    	Cocaine addiction	KEGG PATHWAY	ko05030
+                    	Alcoholism	KEGG PATHWAY	ko05034
+                    	Dopaminergic synapse	KEGG PATHWAY	ko04728
+                    	Prolactin signaling pathway	KEGG PATHWAY	ko04917
+////
+Query:              	seq210
+KO:                 	K09380	ZFHX4
+////
+Query:              	seq211
+KO:                 	K05111	EPHB2, ERK, DRT
+Pathway:            	Axon guidance	KEGG PATHWAY	ko04360
+////
+Query:              	seq212
+////
+Query:              	seq213
+KO:                 	K11971	RNF14, ARA54
+////
+Query:              	seq214
+KO:                 	K04223	TACR2
+Pathway:            	Neuroactive ligand-receptor interaction	KEGG PATHWAY	ko04080
+                    	Calcium signaling pathway	KEGG PATHWAY	ko04020
+////
+Query:              	seq215
+////
+Query:              	seq216
+KO:                 	K05108	EPHA7, EHK3, HEK11
+Pathway:            	Axon guidance	KEGG PATHWAY	ko04360
+////
+Query:              	seq217
+////
+Query:              	seq218
+KO:                 	K13279	PRDX1
+Pathway:            	Peroxisome	KEGG PATHWAY	ko04146
+////
+Query:              	seq219
+KO:                 	K04926	KCNQ1
+Pathway:            	Gastric acid secretion	KEGG PATHWAY	ko04971
+                    	Cholinergic synapse	KEGG PATHWAY	ko04725
+                    	Protein digestion and absorption	KEGG PATHWAY	ko04974
+                    	Pancreatic secretion	KEGG PATHWAY	ko04972
+                    	Vibrio cholerae infection	KEGG PATHWAY	ko05110
+                    	Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	ko04261
+////
+Query:              	seq220
+KO:                 	K09228	KRAB
+////
+Query:              	seq221
+KO:                 	K05462	EFNA
+Pathway:            	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Axon guidance	KEGG PATHWAY	ko04360
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+////
+Query:              	seq222
+KO:                 	K04459	DUSP, MKP
+Pathway:            	MAPK signaling pathway	KEGG PATHWAY	ko04010
+////
+Query:              	seq223
+////
+Query:              	seq224
+KO:                 	K04513	RHOA
+Pathway:            	Pathogenic Escherichia coli infection	KEGG PATHWAY	ko05130
+                    	Neurotrophin signaling pathway	KEGG PATHWAY	ko04722
+                    	Adherens junction	KEGG PATHWAY	ko04520
+                    	Leukocyte transendothelial migration	KEGG PATHWAY	ko04670
+                    	TGF-beta signaling pathway	KEGG PATHWAY	ko04350
+                    	Axon guidance	KEGG PATHWAY	ko04360
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	Platelet activation	KEGG PATHWAY	ko04611
+                    	Sphingolipid signaling pathway	KEGG PATHWAY	ko04071
+                    	T cell receptor signaling pathway	KEGG PATHWAY	ko04660
+                    	Pertussis	KEGG PATHWAY	ko05133
+                    	Colorectal cancer	KEGG PATHWAY	ko05210
+                    	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	Vascular smooth muscle contraction	KEGG PATHWAY	ko04270
+                    	Focal adhesion	KEGG PATHWAY	ko04510
+                    	Wnt signaling pathway	KEGG PATHWAY	ko04310
+                    	cAMP signaling pathway	KEGG PATHWAY	ko04024
+                    	Chemokine signaling pathway	KEGG PATHWAY	ko04062
+                    	Regulation of actin cytoskeleton	KEGG PATHWAY	ko04810
+                    	Tight junction	KEGG PATHWAY	ko04530
+                    	Tuberculosis	KEGG PATHWAY	ko05152
+                    	cGMP-PKG signaling pathway	KEGG PATHWAY	ko04022
+                    	MAPK signaling pathway - yeast	KEGG PATHWAY	ko04011
+                    	Endocytosis	KEGG PATHWAY	ko04144
+                    	Pancreatic secretion	KEGG PATHWAY	ko04972
+                    	Bacterial invasion of epithelial cells	KEGG PATHWAY	ko05100
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Oxytocin signaling pathway	KEGG PATHWAY	ko04921
+                    	Proteoglycans in cancer	KEGG PATHWAY	ko05205
+////
+Query:              	seq225
+KO:                 	K14400	PCF11
+Pathway:            	mRNA surveillance pathway	KEGG PATHWAY	ko03015
+////
+Query:              	seq226
+KO:                 	K05462	EFNA
+Pathway:            	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Axon guidance	KEGG PATHWAY	ko04360
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+////
+Query:              	seq227
+KO:                 	K15603	TCF4_12
+////
+Query:              	seq228
+////
+Query:              	seq229
+KO:                 	K08360	CYB561
+////
+Query:              	seq230
+KO:                 	K17779	TIM10B
+////
+Query:              	seq231
+KO:                 	K05463	EFNB
+Pathway:            	Axon guidance	KEGG PATHWAY	ko04360
+////
+Query:              	seq232
+KO:                 	K05462	EFNA
+Pathway:            	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Axon guidance	KEGG PATHWAY	ko04360
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+////
+Query:              	seq233
+KO:                 	K09194	SP4
+////
+Query:              	seq234
+////
+Query:              	seq235
+KO:                 	K09434	ERF
+////
+Query:              	seq236
+KO:                 	K02678	ETS, pnt
+Pathway:            	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	Dorso-ventral axis formation	KEGG PATHWAY	ko04320
+                    	MAPK signaling pathway - fly	KEGG PATHWAY	ko04013
+                    	HTLV-I infection	KEGG PATHWAY	ko05166
+////
+Query:              	seq237
+////
+Query:              	seq238
+KO:                 	K03019	RPC11, POLR3K
+Pathway:            	Purine metabolism	KEGG PATHWAY	ko00230
+                    	Pyrimidine metabolism	KEGG PATHWAY	ko00240
+                    	RNA polymerase	KEGG PATHWAY	ko03020
+                    	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	Cytosolic DNA-sensing pathway	KEGG PATHWAY	ko04623
+////
+Query:              	seq239
+KO:                 	K04371	MAPK1_3
+Pathway:            	HIF-1 signaling pathway	KEGG PATHWAY	ko04066
+                    	Insulin signaling pathway	KEGG PATHWAY	ko04910
+                    	GnRH signaling pathway	KEGG PATHWAY	ko04912
+                    	Gap junction	KEGG PATHWAY	ko04540
+                    	Adherens junction	KEGG PATHWAY	ko04520
+                    	Endometrial cancer	KEGG PATHWAY	ko05213
+                    	VEGF signaling pathway	KEGG PATHWAY	ko04370
+                    	Axon guidance	KEGG PATHWAY	ko04360
+                    	Thyroid cancer	KEGG PATHWAY	ko05216
+                    	Rap1 signaling pathway	KEGG PATHWAY	ko04015
+                    	Long-term depression	KEGG PATHWAY	ko04730
+                    	Neurotrophin signaling pathway	KEGG PATHWAY	ko04722
+                    	Dorso-ventral axis formation	KEGG PATHWAY	ko04320
+                    	Platelet activation	KEGG PATHWAY	ko04611
+                    	Sphingolipid signaling pathway	KEGG PATHWAY	ko04071
+                    	Shigellosis	KEGG PATHWAY	ko05131
+                    	T cell receptor signaling pathway	KEGG PATHWAY	ko04660
+                    	Central carbon metabolism in cancer	KEGG PATHWAY	ko05230
+                    	Signaling pathways regulating pluripotency of stem cells	KEGG PATHWAY	ko04550
+                    	Progesterone-mediated oocyte maturation	KEGG PATHWAY	ko04914
+                    	Natural killer cell mediated cytotoxicity	KEGG PATHWAY	ko04650
+                    	Estrogen signaling pathway	KEGG PATHWAY	ko04915
+                    	Melanogenesis	KEGG PATHWAY	ko04916
+                    	Colorectal cancer	KEGG PATHWAY	ko05210
+                    	Aldosterone-regulated sodium reabsorption	KEGG PATHWAY	ko04960
+                    	Alzheimer's disease	KEGG PATHWAY	ko05010
+                    	TNF signaling pathway	KEGG PATHWAY	ko04668
+                    	Osteoclast differentiation	KEGG PATHWAY	ko04380
+                    	Chronic myeloid leukemia	KEGG PATHWAY	ko05220
+                    	Alcoholism	KEGG PATHWAY	ko05034
+                    	Serotonergic synapse	KEGG PATHWAY	ko04726
+                    	Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	ko04261
+                    	Prostate cancer	KEGG PATHWAY	ko05215
+                    	Renal cell carcinoma	KEGG PATHWAY	ko05211
+                    	Ras signaling pathway	KEGG PATHWAY	ko04014
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Vascular smooth muscle contraction	KEGG PATHWAY	ko04270
+                    	Focal adhesion	KEGG PATHWAY	ko04510
+                    	MAPK signaling pathway - fly	KEGG PATHWAY	ko04013
+                    	Glutamatergic synapse	KEGG PATHWAY	ko04724
+                    	cAMP signaling pathway	KEGG PATHWAY	ko04024
+                    	Influenza A	KEGG PATHWAY	ko05164
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Cholinergic synapse	KEGG PATHWAY	ko04725
+                    	NOD-like receptor signaling pathway	KEGG PATHWAY	ko04621
+                    	Oocyte meiosis	KEGG PATHWAY	ko04114
+                    	Leishmaniasis	KEGG PATHWAY	ko05140
+                    	Retrograde endocannabinoid signaling	KEGG PATHWAY	ko04723
+                    	Salmonella infection	KEGG PATHWAY	ko05132
+                    	Toll-like receptor signaling pathway	KEGG PATHWAY	ko04620
+                    	Regulation of actin cytoskeleton	KEGG PATHWAY	ko04810
+                    	TGF-beta signaling pathway	KEGG PATHWAY	ko04350
+                    	Fc gamma R-mediated phagocytosis	KEGG PATHWAY	ko04666
+                    	FoxO signaling pathway	KEGG PATHWAY	ko04068
+                    	Thyroid hormone signaling pathway	KEGG PATHWAY	ko04919
+                    	cGMP-PKG signaling pathway	KEGG PATHWAY	ko04022
+                    	Prolactin signaling pathway	KEGG PATHWAY	ko04917
+                    	Toxoplasmosis	KEGG PATHWAY	ko05145
+                    	Chemokine signaling pathway	KEGG PATHWAY	ko04062
+                    	Pertussis	KEGG PATHWAY	ko05133
+                    	Glioma	KEGG PATHWAY	ko05214
+                    	Choline metabolism in cancer	KEGG PATHWAY	ko05231
+                    	Melanoma	KEGG PATHWAY	ko05218
+                    	Circadian entrainment	KEGG PATHWAY	ko04713
+                    	Hepatitis C	KEGG PATHWAY	ko05160
+                    	Tuberculosis	KEGG PATHWAY	ko05152
+                    	Pancreatic cancer	KEGG PATHWAY	ko05212
+                    	Prion diseases	KEGG PATHWAY	ko05020
+                    	Non-small cell lung cancer	KEGG PATHWAY	ko05223
+                    	Long-term potentiation	KEGG PATHWAY	ko04720
+                    	Type II diabetes mellitus	KEGG PATHWAY	ko04930
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	Chagas disease (American trypanosomiasis)	KEGG PATHWAY	ko05142
+                    	B cell receptor signaling pathway	KEGG PATHWAY	ko04662
+                    	Acute myeloid leukemia	KEGG PATHWAY	ko05221
+                    	Bladder cancer	KEGG PATHWAY	ko05219
+                    	ErbB signaling pathway	KEGG PATHWAY	ko04012
+                    	Pathways in cancer	KEGG PATHWAY	ko05200
+                    	Fc epsilon RI signaling pathway	KEGG PATHWAY	ko04664
+                    	Proteoglycans in cancer	KEGG PATHWAY	ko05205
+                    	Oxytocin signaling pathway	KEGG PATHWAY	ko04921
+                    	Hepatitis B	KEGG PATHWAY	ko05161
+                    	mTOR signaling pathway	KEGG PATHWAY	ko04150
+////
+Query:              	seq240
+////
+Query:              	seq241
+////

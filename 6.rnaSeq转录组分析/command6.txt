@@ -1,0 +1,96 @@
+######Video source: https://shop119322454.taobao.com
+[QC] software: FastQC(fastqc)+Cutadapt(cutadapt)+FASTX-Toolkit(fastq_quality_filter)+bbmap(repair.sh)
+mkdir qcOutdir
+fastqc ERR500.R1.fq -t 2 -o qcOutdir
+fastqc ERR500.R2.fq -t 2 -o qcOutdir
+SRR192335_2.fastq SRR192335_1.fastq SRR192336_2.fastq SRR192336_1.fastq
+
+CL100037119_L02_78.fq CL100037119_L02_79.fq CL100037119_L02_80.fq CL100037119_L02_81.fq
+CL100037119_L02_82.fq
+
+cutadapt -a AGATCGGAAGAGCACACGTCTGAACTCCAGTC CL100037119_L02_78.fq -m 30 --output=hela.cutAd.fq;
+cutadapt -a AGATCGGAAGAGCACACGTCTGAACTCCAGTC CL100037119_L02_79.fq -m 30 --output=k19.cutAd.fq;
+cutadapt -a AGATCGGAAGAGCACACGTCTGAACTCCAGTC CL100037119_L02_80.fq -m 30 --output=k25.cutAd.fq;
+cutadapt -a AGATCGGAAGAGCACACGTCTGAACTCCAGTC CL100037119_L02_81.fq -m 30 --output=k25_2DG.cutAd.fq;
+cutadapt -a AGATCGGAAGAGCACACGTCTGAACTCCAGTC CL100037119_L02_82.fq -m 30 --output=hela_2DG.cutAd.fq;
+
+free
+
+./removeN hela.cutAd.fq hela.unknowNul.fq;
+./removeN k19.cutAd.fq k19.unknowNul.fq;
+./removeN k25.cutAd.fq k25.unknowNul.fq;
+./removeN k25_2DG.cutAd.fq k25_2DG.unknowNul.fq;
+./removeN hela_2DG.cutAd.fq hela_2DG.unknowNul.fq;
+free
+######./removeN SRR192336_2.cutAd2.fq SRR192336_2.unknowNul.fq
+
+
+fastq_quality_filter -q 20 -p 70 -i hela.unknowNul.fq -o hela.clean.fq;
+fastq_quality_filter -q 20 -p 70 -i k19.unknowNul.fq -o k19.clean.fq;
+fastq_quality_filter -q 20 -p 70 -i k25.unknowNul.fq -o k25.clean.fq;
+fastq_quality_filter -q 20 -p 70 -i k25_2DG.unknowNul.fq -o k25_2DG.clean.fq;
+fastq_quality_filter -q 20 -p 70 -i hela_2DG.unknowNul.fq -o hela_2DG.clean.fq;
+free
+
+######fastq_quality_filter -q 20 -p 70 -i SRR192336_2.unknowNul.fq -o SRR192336_2.qual.fq
+free
+
+/home/lqd/Software/bbmap/repair.sh in=SRR192335_1.qual.fq in2=SRR192335_2.qual.fq out=SRR192335_1.clean.fq out2=SRR192335_2.clean.fq
+/home/lqd/Software/bbmap/repair.sh in=SRR192336_1.qual.fq in2=SRR192336_2.qual.fq out=SRR192336_1.clean.fq out2=SRR192336_2.clean.fq
+free
+
+fastqc hela.clean.fq -t 2 -o qcOutdir;
+fastqc k19.clean.fq -t 2 -o qcOutdir;
+fastqc k25.clean.fq -t 2 -o qcOutdir;
+fastqc k25_2DG.clean.fq -t 2 -o qcOutdir;
+fastqc hela_2DG.clean.fq -t 2 -o qcOutdir;
+free
+
+[mapping] software: TopHat2(tophat2)+SAMtools(samtools)+RSeQC(read_distribution.py|geneBody_coverage.py|junction_saturation.py)
+tophat2 --no-coverage-search -o mappingOuthela -p 10 --read-mismatches 2 -r 50 --library-type fr-unstranded /home/lqd/Database/hg38/hg38 hela.clean.fq
+tophat2 -o mappingOutSRR192336 -p 10 --read-mismatches 2 -r 50 --library-type fr-unstranded /home/lqd/Database/hg38/hg38 SRR192336_1.clean.fq SRR192336_2.clean.fq
+free
+
+cd /home/ouyangcong3/rnaseq3/mappingOutSRR192335
+samtools view -h accepted_hits.bam |awk '$1~/^@/||$5==50{print $0}' |samtools view -bhS - >SRR192335.unique.bam
+cd /home/ouyangcong3/rnaseq3/mappingOutSRR192336
+samtools view -h accepted_hits.bam |awk '$1~/^@/||$5==50{print $0}' |samtools view -bhS - >SRR192336.unique.bam
+free
+samtools index SRR192335.unique.bam
+samtools index SRR192336.unique.bam
+free
+
+read_distribution.py -i SRR192335.unique.bam -r /data/lb/software/bed/hg19.bed
+read_distribution.py -i SRR192336.unique.bam -r /data/lb/software/bed/hg19.bed
+
+geneBody_coverage.py -i SRR192335.unique.bam -r /data/lb/software/bed/hg19.bed -o SRR192335
+geneBody_coverage.py -i SRR192336.unique.bam -r /data/lb/software/bed/hg19.bed -o SRR192336
+
+junction_saturation.py -i SRR192335.unique.bam -r /data/lb/software/bed/hg19.bed -o SRR192335
+junction_saturation.py -i SRR192336.unique.bam -r /data/lb/software/bed/hg19.bed -o SRR192336
+
+
+[expression] software: HTSeq-count(htseq-count)+Cufflinks(cufflinks|cuffdiff)
+#edgeR DEseq DEGSeq
+cd /home/ouyangcong3/rnaseq3/mappingOutSRR192335
+htseq-count --stranded=no --format=bam --order=pos --idattr=gene_id --mode=intersection-nonempty -q /home/ouyangcong3/ko/Hela.sorted.bam /home/ouyangcong3/database/hg38.gtf.cp >Hela.htseq_count.xls
+cd /home/ouyangcong3/rnaseq3/mappingOutSRR192336
+htseq-count --stranded=no --format=bam --order=pos --idattr=gene_id --mode=intersection-nonempty -q /home/ouyangcong3/rnaseq3/mappingOutSRR192336/SRR192336.unique.bam /home/ouyangcong3/database/hg38.gtf.cp >SRR192336.htseq_count.xls 
+free
+
+#DEGseq voom+limma
+cufflinks -o cufflinksSRR192335 --library-type fr-unstranded -G /data/lb/software/rnaSoft/database/hg19.gtf /data/lb/software/rnaSoft/test/mappingOutSRR192335/SRR192335.unique.bam
+cufflinks -o cufflinksSRR192335 --library-type fr-unstranded -G /data/lb/software/rnaSoft/database/hg19.gtf /data/lb/software/rnaSoft/test/mappingOutSRR192336/SRR192336.unique.bam
+
+cuffdiff -b /data/lb/software/vcf/ucsc.hg19.fasta -L SRR192335,SRR192335 -o diff --library-type fr-unstranded -u /data/lb/software/rnaSoft/database/hg19.gtf /data/lb/software/rnaSoft/test/mappingOutSRR192335/SRR192335.unique.bam /data/lb/software/rnaSoft/test/mappingOutSRR192336/SRR192336.unique.bam
+
+[lncRNA] software: Cufflinks(cufflinks|cuffcompare)+TopHat2(gtf_to_fasta)
+cufflinks -o novel500 --library-type fr-unstranded -g /data/lb/software/rnaSoft/database/hg19.gtf /data/lb/software/rnaSoft/test/mappingOut500/ERR500.unique.bam
+cuffcompare -s /data/lb/software/vcf/ucsc.hg19.fasta -r /data/lb/software/rnaSoft/database/hg19.gtf -R -o compareGtf /data/lb/software/rnaSoft/test/novel500/transcripts.gtf 
+grep "class_code \"u\"" compareGtf.combined.gtf >novel.gtf
+gtf_to_fasta novel.gtf /data/lb/software/vcf/ucsc.hg19.fasta novel.fa
+
+for i in $(ls *.gz);do gunzip $i;done
+
+
+samtools view -h SRR192335.unique.bam | less

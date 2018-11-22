@@ -1,0 +1,86 @@
+##ko	KEGG Orthology
+##Method: BLAST	Options: evalue <= 1e-05; rank <= 5
+##Summary:	8 succeed, 0 fail
+
+#Query	KO ID|KO name|Hyperlink
+seq3	K03283|HSPA1_8|http://www.genome.jp/dbget-bin/www_bget?ko:K03283
+seq16	K04455|HSPB1|http://www.genome.jp/dbget-bin/www_bget?ko:K04455
+seq47	K07606|VIM|http://www.genome.jp/dbget-bin/www_bget?ko:K07606
+seq60	K11126|TERT, EST2|http://www.genome.jp/dbget-bin/www_bget?ko:K11126
+seq68	K07606|VIM|http://www.genome.jp/dbget-bin/www_bget?ko:K07606
+seq73	K07606|VIM|http://www.genome.jp/dbget-bin/www_bget?ko:K07606
+seq89	K09032|ATF3, LRF1|http://www.genome.jp/dbget-bin/www_bget?ko:K09032
+seq91	K04374|ATF4, CREB2|http://www.genome.jp/dbget-bin/www_bget?ko:K04374
+
+--------------------
+
+////
+Query:              	seq3
+KO:                 	K03283	HSPA1_8
+Pathway:            	Toxoplasmosis	KEGG PATHWAY	ko05145
+                    	Legionellosis	KEGG PATHWAY	ko05134
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Estrogen signaling pathway	KEGG PATHWAY	ko04915
+                    	Protein processing in endoplasmic reticulum	KEGG PATHWAY	ko04141
+                    	Spliceosome	KEGG PATHWAY	ko03040
+                    	Measles	KEGG PATHWAY	ko05162
+                    	Influenza A	KEGG PATHWAY	ko05164
+                    	Antigen processing and presentation	KEGG PATHWAY	ko04612
+                    	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	Endocytosis	KEGG PATHWAY	ko04144
+////
+Query:              	seq16
+KO:                 	K04455	HSPB1
+Pathway:            	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	Amoebiasis	KEGG PATHWAY	ko05146
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	VEGF signaling pathway	KEGG PATHWAY	ko04370
+////
+Query:              	seq47
+KO:                 	K07606	VIM
+Pathway:            	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+////
+Query:              	seq60
+KO:                 	K11126	TERT, EST2
+Pathway:            	HTLV-I infection	KEGG PATHWAY	ko05166
+////
+Query:              	seq68
+KO:                 	K07606	VIM
+Pathway:            	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+////
+Query:              	seq73
+KO:                 	K07606	VIM
+Pathway:            	Epstein-Barr virus infection	KEGG PATHWAY	ko05169
+                    	MicroRNAs in cancer	KEGG PATHWAY	ko05206
+////
+Query:              	seq89
+KO:                 	K09032	ATF3, LRF1
+Pathway:            	HTLV-I infection	KEGG PATHWAY	ko05166
+////
+Query:              	seq91
+KO:                 	K04374	ATF4, CREB2
+Pathway:            	Neurotrophin signaling pathway	KEGG PATHWAY	ko04722
+                    	TNF signaling pathway	KEGG PATHWAY	ko04668
+                    	Viral carcinogenesis	KEGG PATHWAY	ko05203
+                    	Amphetamine addiction	KEGG PATHWAY	ko05031
+                    	Dopaminergic synapse	KEGG PATHWAY	ko04728
+                    	Protein processing in endoplasmic reticulum	KEGG PATHWAY	ko04141
+                    	Alcoholism	KEGG PATHWAY	ko05034
+                    	Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	ko04261
+                    	Prostate cancer	KEGG PATHWAY	ko05215
+                    	Insulin secretion	KEGG PATHWAY	ko04911
+                    	HTLV-I infection	KEGG PATHWAY	ko05166
+                    	PI3K-Akt signaling pathway	KEGG PATHWAY	ko04151
+                    	Thyroid hormone synthesis	KEGG PATHWAY	ko04918
+                    	MAPK signaling pathway	KEGG PATHWAY	ko04010
+                    	Cholinergic synapse	KEGG PATHWAY	ko04725
+                    	Non-alcoholic fatty liver disease (NAFLD)	KEGG PATHWAY	ko04932
+                    	GnRH signaling pathway	KEGG PATHWAY	ko04912
+                    	cGMP-PKG signaling pathway	KEGG PATHWAY	ko04022
+                    	Estrogen signaling pathway	KEGG PATHWAY	ko04915
+                    	Cocaine addiction	KEGG PATHWAY	ko05030
+                    	Long-term potentiation	KEGG PATHWAY	ko04720
+                    	Hepatitis B	KEGG PATHWAY	ko05161
+////
