@@ -1,0 +1,2 @@
+gdc-client.exe download -m MANIFEST.txt
+gdc-client.exe download af693732-aa1f-49a1-aa48-1d17079ccbbe

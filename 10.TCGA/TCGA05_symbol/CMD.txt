@@ -1,0 +1,3 @@
+######Video source: https://shop119322454.taobao.com
+
+perl ensemblToSymbol.pl Homo_sapiens.GRCh38.84.chr.gtf mRNAmatrix.txt mRNA.symbol.txt
